@@ -121,7 +121,7 @@ permalink: /history/
         </div>
         {% endfor %}
       </div>
-      <p class="history__note">Source: <a href="{{ s.source }}">MileSplit results</a>. Highlighted rows scored points for the team.</p>
+      <p class="history__note">Source: {% if s.source.startsWith("http") %}<a href="{{ s.source }}">MileSplit results</a>{% else %}{{ s.source }}{% endif %}. Highlighted rows scored points for the team.</p>
     </details>
     {% endfor %}
   </section>
