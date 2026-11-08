@@ -2998,6 +2998,10 @@
   },
   {
    "year": 2023,
+   "meet": "Section V Class A1 Championships",
+   "date": "2023-02-18",
+   "venue": "Nazareth",
+   "source": "Official Section V results file (supplied by the team)",
    "results": [
     {
      "gender": "girls",
@@ -3071,6 +3075,13 @@
     },
     {
      "gender": "girls",
+     "event": "1000m",
+     "place": null,
+     "athlete": "Hannah Aufderheide",
+     "mark": "DNF"
+    },
+    {
+     "gender": "girls",
      "event": "1500m",
      "place": 1,
      "athlete": "Zoe Marcus",
@@ -3101,7 +3112,7 @@
      "gender": "girls",
      "event": "3000m",
      "place": 9,
-     "athlete": "Mattéa Malsegna",
+     "athlete": "Mattea Keller",
      "mark": "11:34.90"
     },
     {
@@ -3137,14 +3148,14 @@
      "event": "TJ",
      "place": 5,
      "athlete": "Lauren Murphy",
-     "mark": "35-6.5"
+     "mark": "35-06.50"
     },
     {
      "gender": "girls",
      "event": "SP",
      "place": 9,
      "athlete": "Laylhona Sims",
-     "mark": "29-3"
+     "mark": "29-03.00"
     },
     {
      "gender": "boys",
@@ -3242,34 +3253,44 @@
      "event": "HJ",
      "place": 11,
      "athlete": "Wayne Spencer",
-     "mark": "5-6"
+     "mark": "5-06.00"
     },
     {
      "gender": "boys",
      "event": "LJ",
      "place": 7,
      "athlete": "Wayne Spencer",
-     "mark": "20-3.75"
+     "mark": "20-03.75"
     },
     {
      "gender": "boys",
      "event": "TJ",
      "place": 10,
      "athlete": "Wayne Spencer",
-     "mark": "39-0.25"
+     "mark": "39-00.25"
     },
     {
      "gender": "boys",
      "event": "TJ",
      "place": 14,
      "athlete": "Bailey Frank",
-     "mark": "37-2"
+     "mark": "37-02.00"
     }
    ],
-   "meet": "Section V Class A1 Championships",
-   "date": "2023-02-18",
-   "venue": "Nazareth",
-   "source": "https://ny.milesplit.com/meets/511217-section-5-sectional-champs-2023/teams/11209"
+   "team": {
+    "girls": {
+     "place": 7,
+     "points": 36.0,
+     "winner": "Webster Schroeder",
+     "winner_points": 93.0
+    },
+    "boys": {
+     "place": 10,
+     "points": 24.0,
+     "winner": "McQuaid Jesuit",
+     "winner_points": 90.0
+    }
+   }
   },
   {
    "year": 2024,
