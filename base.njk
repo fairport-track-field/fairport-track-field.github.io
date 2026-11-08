@@ -14,6 +14,8 @@
   <meta property="og:title" content="{{ pageTitle }}">
   <meta property="og:description" content="{{ pageDesc }}">
   <meta property="og:url" content="{{ pageUrl }}">
+  <meta property="og:image" content="{{ site.url }}/assets/mascot.png">
+  <meta property="og:image:alt" content="Fairport Red Raiders mascot">
   {%- if page.url == "/" %}
   <script type="application/ld+json">
   {
@@ -36,8 +38,11 @@
   <header class="masthead">
     <div class="wrap masthead__inner">
       <a class="wordmark" href="/">
+        <img class="wordmark__logo" src="/assets/mascot.png" alt="" width="159" height="147">
+        <span class="wordmark__text">
         <span class="wordmark__town">Fairport</span>
         <span class="wordmark__sport">Track &amp; Field</span>
+        </span>
       </a>
       <nav class="nav" aria-label="Main">
         {% set links = [
@@ -45,7 +50,7 @@
           ["/schedule/", "Schedule & results"],
           ["/records/", "School records"],
           ["/top-10/", "Top 10"],
-          ["/standards/", "Varsity standards"],
+          ["/standards/", "Standards"],
           ["/history/", "Championship history"]
         ] %}
         {% for link in links %}

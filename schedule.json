@@ -1,17 +1,147 @@
 {
   "season": "2026–27 Indoor",
   "meets": [
-    { "name": "League Meet",            "date": "2026-12-05", "location": "Nazareth", "time": "8:30am", "results_url": "", "recap": "" },
-    { "name": "League Meet",            "date": "2026-12-12", "location": "Nazareth", "time": "9:00am", "results_url": "", "recap": "" },
-    { "name": "League Meet",            "date": "2026-12-18", "location": "Nazareth", "time": "6:00pm", "results_url": "", "recap": "" },
-    { "name": "League Meet",            "date": "2026-12-29", "location": "Nazareth", "time": "3:00pm", "results_url": "", "recap": "" },
-    { "name": "League Meet",            "date": "2027-01-09", "location": "Nazareth", "time": "6:30pm", "results_url": "", "recap": "" },
-    { "name": "League Meet",            "date": "2027-01-22", "location": "Brockport", "time": "6:00pm", "results_url": "", "recap": "" },
-    { "name": "Divisional Championships", "date": "2027-01-29", "location": "Nazareth", "time": "6:00pm", "results_url": "", "recap": "", "championship": true },
-    { "name": "County Championships",   "date": "2027-02-06", "location": "Nazareth", "time": "9:00am", "results_url": "", "recap": "", "championship": true },
-    { "name": "Class A1 Sectionals",    "date": "2027-02-18", "location": "Nazareth", "time": "11:00am", "results_url": "", "recap": "", "championship": true },
-    { "name": "State Qualifiers",       "date": "2027-02-26", "location": "Nazareth", "time": "6:00pm", "results_url": "", "recap": "", "championship": true },
-    { "name": "State Championships",    "date": "2027-03-05", "end_date": "2027-03-06", "location": "Ocean Breeze", "time": "", "results_url": "", "recap": "", "championship": true },
-    { "name": "New Balance Nationals",  "date": "2027-03-11", "end_date": "2027-03-14", "location": "Boston", "time": "", "results_url": "", "recap": "", "championship": true }
+    {
+      "name": "League Meet",
+      "date": "2026-12-05",
+      "location": "Nazareth",
+      "time": "8:30am",
+      "results_url": "",
+      "recap": "",
+      "info_url": ""
+    },
+    {
+      "name": "League Meet",
+      "date": "2026-12-12",
+      "location": "Nazareth",
+      "time": "9:00am",
+      "results_url": "",
+      "recap": "",
+      "info_url": ""
+    },
+    {
+      "name": "League Meet",
+      "date": "2026-12-18",
+      "location": "Nazareth",
+      "time": "6:00pm",
+      "results_url": "",
+      "recap": "",
+      "info_url": ""
+    },
+    {
+      "name": "League Meet",
+      "date": "2026-12-29",
+      "location": "Nazareth",
+      "time": "3:00pm",
+      "results_url": "",
+      "recap": "",
+      "info_url": ""
+    },
+    {
+      "name": "League Meet",
+      "date": "2027-01-09",
+      "location": "Nazareth",
+      "time": "6:30pm",
+      "results_url": "",
+      "recap": "",
+      "info_url": ""
+    },
+    {
+      "name": "League Meet",
+      "date": "2027-01-22",
+      "location": "Brockport",
+      "time": "6:00pm",
+      "results_url": "",
+      "recap": "",
+      "info_url": ""
+    },
+    {
+      "name": "Division I Championships",
+      "date": "2027-01-29",
+      "location": "Nazareth",
+      "time": "6:00–10:00pm",
+      "results_url": "",
+      "recap": "",
+      "championship": true,
+      "info_url": "https://docs.google.com/document/d/1iMLIIajpB0FArq62vuCbVsbVWExsj9zI-Mc7d4d2N4I/edit"
+    },
+    {
+      "name": "County Championships (MCPSAC)",
+      "date": "2027-02-06",
+      "location": "Nazareth",
+      "time": "9:00am–3:00pm",
+      "results_url": "",
+      "recap": "",
+      "championship": true,
+      "info_url": "https://docs.google.com/document/d/1kS-RjGbLqARvvLYJ_22OiStwbRjqcOQHFoFtB9pyUQs/edit"
+    },
+    {
+      "name": "Section V Class A1 Championships",
+      "date": "2027-02-18",
+      "location": "Nazareth",
+      "time": "11:00am–3:00pm",
+      "results_url": "",
+      "recap": "",
+      "championship": true,
+      "info_url": "https://docs.google.com/document/d/12yRWJOsf-5rnukexJAG19N40EfgXqFhdcYVQ5yg0nKs/edit"
+    },
+    {
+      "name": "Section V State Qualifier",
+      "date": "2027-02-26",
+      "location": "Nazareth",
+      "time": "6:00–10:00pm",
+      "results_url": "",
+      "recap": "",
+      "championship": true,
+      "info_url": "https://docs.google.com/document/d/12yRWJOsf-5rnukexJAG19N40EfgXqFhdcYVQ5yg0nKs/edit"
+    },
+    {
+      "name": "NYSPHSAA State Championships",
+      "date": "2027-03-05",
+      "end_date": "2027-03-06",
+      "location": "Ocean Breeze, Staten Island",
+      "time": "1:30pm Fri, 10:00am Sat",
+      "results_url": "",
+      "recap": "",
+      "championship": true,
+      "info_url": "https://nysphsaa.org/tournaments/?id=29"
+    },
+    {
+      "name": "New Balance Nationals",
+      "date": "2027-03-11",
+      "end_date": "2027-03-14",
+      "location": "Boston",
+      "time": "",
+      "results_url": "",
+      "recap": "",
+      "championship": true,
+      "info_url": ""
+    }
+  ],
+  "key_dates": [
+    {
+      "date": "2026-11-16",
+      "what": "Indoor season starts"
+    },
+    {
+      "date": "2027-02-12",
+      "what": "Medical waivers to the representation rule due to Section V"
+    },
+    {
+      "date": "2027-02-15",
+      "what": "Sectional entries due by 6:00pm"
+    },
+    {
+      "date": "2027-02-16",
+      "what": "Sectional programs posted online"
+    },
+    {
+      "date": "2027-02-22",
+      "what": "State Qualifier entries due by 8:00pm"
+    },
+    {
+      "date": "2027-02-23",
+      "what": "State Qualifier scratch deadline, 8:00pm"
+    }
   ]
 }
