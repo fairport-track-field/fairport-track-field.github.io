@@ -1939,6 +1939,605 @@
    }
   },
   {
+   "year": 2017,
+   "meet": "Section V Class A Championships",
+   "date": "2017-02-16",
+   "venue": "RIT",
+   "source": "Official Section V results file (supplied by the team)",
+   "results": [
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 9,
+     "athlete": "Taylor Atkins-Lewis",
+     "mark": "44.57"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 12,
+     "athlete": "Claire Myers",
+     "mark": "45.13"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 5,
+     "athlete": "Emily Fish",
+     "mark": "1:45.18"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 2,
+     "athlete": "Sinead Sargeant",
+     "mark": "2:59.51"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 6,
+     "athlete": "Allison Prescott",
+     "mark": "3:17.83"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 8,
+     "athlete": "Anna Cuciurean-Zapan",
+     "mark": "3:20.01"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 4,
+     "athlete": "Morgan Brady",
+     "mark": "11:27.03"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 9,
+     "athlete": "Jenna Prosperi",
+     "mark": "11:46.49"
+    },
+    {
+     "gender": "girls",
+     "event": "55mH",
+     "place": 9,
+     "athlete": "Isabel Moll",
+     "mark": "9.76"
+    },
+    {
+     "gender": "girls",
+     "event": "55mH",
+     "place": 11,
+     "athlete": "Olivia Bockrath",
+     "mark": "9.85"
+    },
+    {
+     "gender": "girls",
+     "event": "55mH",
+     "place": 15,
+     "athlete": "Chivonna Reed",
+     "mark": "9.99"
+    },
+    {
+     "gender": "girls",
+     "event": "4x200",
+     "place": 4,
+     "athlete": "",
+     "mark": "1:49.89"
+    },
+    {
+     "gender": "girls",
+     "event": "4x800",
+     "place": 6,
+     "athlete": "",
+     "mark": "10:42.65"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 2,
+     "athlete": "Allison Feder",
+     "mark": "4-10.00"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 5,
+     "athlete": "Chivonna Reed",
+     "mark": "4-06.00"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 6,
+     "athlete": "Allison Prescott",
+     "mark": "4-04.00"
+    },
+    {
+     "gender": "girls",
+     "event": "LJ",
+     "place": 7,
+     "athlete": "Allison Feder",
+     "mark": "15-10.50"
+    },
+    {
+     "gender": "girls",
+     "event": "LJ",
+     "place": 10,
+     "athlete": "Claire Myers",
+     "mark": "15-09.00"
+    },
+    {
+     "gender": "girls",
+     "event": "LJ",
+     "place": 11,
+     "athlete": "Caroline Wirth",
+     "mark": "15-08.50"
+    },
+    {
+     "gender": "girls",
+     "event": "LJ",
+     "place": 16,
+     "athlete": "Olivia Bockrath",
+     "mark": "15-02.25"
+    },
+    {
+     "gender": "girls",
+     "event": "TJ",
+     "place": 6,
+     "athlete": "Caroline Wirth",
+     "mark": "33-11.25"
+    },
+    {
+     "gender": "girls",
+     "event": "TJ",
+     "place": 7,
+     "athlete": "Allison Feder",
+     "mark": "33-09.50"
+    },
+    {
+     "gender": "boys",
+     "event": "300m",
+     "place": 9,
+     "athlete": "Liam Gordon",
+     "mark": "37.87"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 10,
+     "athlete": "Mason Kozody",
+     "mark": "1:28.90"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": null,
+     "athlete": "Samuel Schraver",
+     "mark": "DNF"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 9,
+     "athlete": "Jack Callard",
+     "mark": "2:43.47"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": null,
+     "athlete": "Nathan Markle",
+     "mark": "DNF"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 11,
+     "athlete": "Matt Abell",
+     "mark": "4:47.18"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 12,
+     "athlete": "Sam Liberatore",
+     "mark": "4:48.80"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 2,
+     "athlete": "Majd Rouhana",
+     "mark": "9:39.41"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 10,
+     "athlete": "Ethan Abell",
+     "mark": "10:16.35"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": null,
+     "athlete": "Sean Henretta",
+     "mark": "DNF"
+    },
+    {
+     "gender": "boys",
+     "event": "55mH",
+     "place": 9,
+     "athlete": "Zack Wigent",
+     "mark": "8.58"
+    },
+    {
+     "gender": "boys",
+     "event": "4x200",
+     "place": 8,
+     "athlete": "",
+     "mark": "1:41.37"
+    },
+    {
+     "gender": "boys",
+     "event": "4x800",
+     "place": 1,
+     "athlete": "",
+     "mark": "8:05.13"
+    },
+    {
+     "gender": "boys",
+     "event": "HJ",
+     "place": 8,
+     "athlete": "Zack Wigent",
+     "mark": "5-08.00"
+    },
+    {
+     "gender": "boys",
+     "event": "PV",
+     "place": 3,
+     "athlete": "Ryan Harman",
+     "mark": "12-06.00"
+    },
+    {
+     "gender": "boys",
+     "event": "LJ",
+     "place": 11,
+     "athlete": "Ryan Harman",
+     "mark": "19-05.25"
+    },
+    {
+     "gender": "boys",
+     "event": "LJ",
+     "place": 12,
+     "athlete": "Trevor Schneggenburger",
+     "mark": "19-01.25"
+    },
+    {
+     "gender": "boys",
+     "event": "TJ",
+     "place": 6,
+     "athlete": "Trevor Schneggenburger",
+     "mark": "40-07.50"
+    }
+   ],
+   "team": {
+    "girls": {
+     "place": 6,
+     "points": 31.5,
+     "winner": "Rush-Henrietta",
+     "winner_points": 152.0
+    },
+    "boys": {
+     "place": 7,
+     "points": 25.0,
+     "winner": "McQuaid Jesuit",
+     "winner_points": 101.0
+    }
+   }
+  },
+  {
+   "year": 2018,
+   "meet": "Section V Class A Championships",
+   "date": "2018-02-17",
+   "venue": "RIT",
+   "source": "Official Section V results file (supplied by the team)",
+   "results": [
+    {
+     "gender": "girls",
+     "event": "55m",
+     "place": 8,
+     "athlete": "Lillian Hicks",
+     "mark": "7.73"
+    },
+    {
+     "gender": "girls",
+     "event": "55m",
+     "place": 9,
+     "athlete": "Samantha Ritter",
+     "mark": "7.74"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 2,
+     "athlete": "Taylor Atkins-Lewis",
+     "mark": "1:39.08"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 2,
+     "athlete": "Sinead Sargeant",
+     "mark": "3:04.45"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 12,
+     "athlete": "Jessica Suiter",
+     "mark": "3:20.97"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 2,
+     "athlete": "Jenna Prosperi",
+     "mark": "11:09.88"
+    },
+    {
+     "gender": "girls",
+     "event": "4x200",
+     "place": 3,
+     "athlete": "",
+     "mark": "1:50.29"
+    },
+    {
+     "gender": "girls",
+     "event": "4x400",
+     "place": 7,
+     "athlete": "",
+     "mark": "4:44.37"
+    },
+    {
+     "gender": "girls",
+     "event": "4x800",
+     "place": 1,
+     "athlete": "",
+     "mark": "10:00.32"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 4,
+     "athlete": "Chivonna Reed",
+     "mark": "4-10.00"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 6,
+     "athlete": "Claire Myers",
+     "mark": "4-10.00"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 9,
+     "athlete": "Paige Harman",
+     "mark": "4-06.00"
+    },
+    {
+     "gender": "girls",
+     "event": "SP",
+     "place": 6,
+     "athlete": "Rachel Koonmen",
+     "mark": "32-01.50"
+    },
+    {
+     "gender": "boys",
+     "event": "55m",
+     "place": 4,
+     "athlete": "Mike Sabatine",
+     "mark": "6.64"
+    },
+    {
+     "gender": "boys",
+     "event": "300m",
+     "place": 1,
+     "athlete": "Mike Sabatine",
+     "mark": "34.77"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 6,
+     "athlete": "Ben Bulkeley",
+     "mark": "1:27.41"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 7,
+     "athlete": "Samuel Schraver",
+     "mark": "1:27.90"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 13,
+     "athlete": "Derek Watson",
+     "mark": "1:34.76"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 1,
+     "athlete": "Ben Bulkeley",
+     "mark": "2:31.58"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 4,
+     "athlete": "Jack Callard",
+     "mark": "2:37.98"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 14,
+     "athlete": "Sam Bulkeley",
+     "mark": "2:49.78"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 16,
+     "athlete": "Brian Egan",
+     "mark": "2:50.41"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 4,
+     "athlete": "Majd Rouhana",
+     "mark": "4:36.56"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 15,
+     "athlete": "Sean Henretta",
+     "mark": "4:55.64"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 16,
+     "athlete": "Coleton Pallatto",
+     "mark": "4:57.20"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 2,
+     "athlete": "Sean Henretta",
+     "mark": "10:04.16"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 3,
+     "athlete": "Majd Rouhana",
+     "mark": "10:04.70"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 4,
+     "athlete": "Coleton Pallatto",
+     "mark": "10:05.43"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 6,
+     "athlete": "Ethan Abell",
+     "mark": "10:06.99"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 7,
+     "athlete": "Matt Abell",
+     "mark": "10:15.62"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 10,
+     "athlete": "Kaelen Ruder",
+     "mark": "10:35.77"
+    },
+    {
+     "gender": "boys",
+     "event": "55mH",
+     "place": 15,
+     "athlete": "Sebastian Osbourne",
+     "mark": "11.55"
+    },
+    {
+     "gender": "boys",
+     "event": "4x200",
+     "place": 8,
+     "athlete": "",
+     "mark": "1:39.04"
+    },
+    {
+     "gender": "boys",
+     "event": "4x400",
+     "place": 3,
+     "athlete": "",
+     "mark": "3:34.61"
+    },
+    {
+     "gender": "boys",
+     "event": "4x800",
+     "place": 4,
+     "athlete": "",
+     "mark": "8:33.73"
+    },
+    {
+     "gender": "boys",
+     "event": "HJ",
+     "place": 4,
+     "athlete": "Matt Hoff",
+     "mark": "5-10.00"
+    },
+    {
+     "gender": "boys",
+     "event": "PV",
+     "place": 3,
+     "athlete": "Ryan Harman",
+     "mark": "13-00.00"
+    },
+    {
+     "gender": "boys",
+     "event": "LJ",
+     "place": 7,
+     "athlete": "Ryan Harman",
+     "mark": "20-11.25"
+    },
+    {
+     "gender": "boys",
+     "event": "SP",
+     "place": null,
+     "athlete": "Dean West",
+     "mark": "FOUL"
+    }
+   ],
+   "team": {
+    "girls": {
+     "place": 5,
+     "points": 46.0,
+     "winner": "Rush-Henrietta",
+     "winner_points": 150.0
+    },
+    "boys": {
+     "place": 2,
+     "points": 72.0,
+     "winner": "Rush-Henrietta",
+     "winner_points": 96.5
+    }
+   }
+  },
+  {
    "year": 2019,
    "results": [
     {
