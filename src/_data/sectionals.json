@@ -6053,7 +6053,7 @@
       "meet": "Section V Class A Championships",
       "date": "2005-02-12",
       "venue": "Hobart & William Smith Colleges",
-      "source": "Official Section V results file (supplied by the team; boys events only)",
+      "source": "Official Section V results files (supplied by the team)",
       "results": [
         {
           "gender": "boys",
@@ -6131,6 +6131,118 @@
           "place": 5,
           "athlete": "Eric Beecher",
           "mark": "38-08.25"
+        },
+        {
+          "gender": "girls",
+          "event": "55m",
+          "place": 4,
+          "athlete": "Kayla Johnson",
+          "mark": "7.69"
+        },
+        {
+          "gender": "girls",
+          "event": "600m",
+          "place": 5,
+          "athlete": "Megan Anderson",
+          "mark": "1:44.58"
+        },
+        {
+          "gender": "girls",
+          "event": "600m",
+          "place": 11,
+          "athlete": "Laura Finke",
+          "mark": "1:53.70"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 1,
+          "athlete": "Megan Steenburgh",
+          "mark": "3:06.45"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 4,
+          "athlete": "Megan Goetz",
+          "mark": "3:12.89"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 14,
+          "athlete": "Laura Finke",
+          "mark": "3:32.27"
+        },
+        {
+          "gender": "girls",
+          "event": "1500m",
+          "place": 4,
+          "athlete": "Lauren Ferrimani",
+          "mark": "5:09.10"
+        },
+        {
+          "gender": "girls",
+          "event": "1500m",
+          "place": 8,
+          "athlete": "Laura Cass",
+          "mark": "5:20.21"
+        },
+        {
+          "gender": "girls",
+          "event": "3000m",
+          "place": 4,
+          "athlete": "Laura Cass",
+          "mark": "11:18.08"
+        },
+        {
+          "gender": "girls",
+          "event": "3000m",
+          "place": 13,
+          "athlete": "Madeline Snider",
+          "mark": "12:49.85"
+        },
+        {
+          "gender": "girls",
+          "event": "55mH",
+          "place": 9,
+          "athlete": "Alayna Gesinger",
+          "mark": "10.13"
+        },
+        {
+          "gender": "girls",
+          "event": "4x200",
+          "place": 4,
+          "athlete": "",
+          "mark": "1:56.45"
+        },
+        {
+          "gender": "girls",
+          "event": "4x800",
+          "place": 1,
+          "athlete": "",
+          "mark": "10:05.09"
+        },
+        {
+          "gender": "girls",
+          "event": "HJ",
+          "place": 8,
+          "athlete": "Emily Olson",
+          "mark": "4-04.00"
+        },
+        {
+          "gender": "girls",
+          "event": "PV",
+          "place": 1,
+          "athlete": "Christine O'Neil",
+          "mark": "9-00.00"
+        },
+        {
+          "gender": "girls",
+          "event": "SP",
+          "place": 10,
+          "athlete": "Kat McElhearn",
+          "mark": "27-01.75"
         }
       ],
       "team": {
@@ -6139,229 +6251,18 @@
           "points": 42.0,
           "winner": "Edison",
           "winner_points": 107.0
+        },
+        "girls": {
+          "place": 4,
+          "points": 52.0,
+          "winner": "Penfield",
+          "winner_points": 95.0
         }
       }
     },
     {
       "year": 2004,
       "results": [
-        {
-          "gender": "girls",
-          "event": "RW",
-          "place": 3,
-          "athlete": "Rachel Gandell",
-          "mark": "8:00.82"
-        },
-        {
-          "gender": "girls",
-          "event": "55m",
-          "place": 2,
-          "athlete": "Kayla Johnson",
-          "mark": "7.63"
-        },
-        {
-          "gender": "girls",
-          "event": "55m",
-          "place": 10,
-          "athlete": "Kristen Lee",
-          "mark": "7.95"
-        },
-        {
-          "gender": "girls",
-          "event": "300m",
-          "place": 6,
-          "athlete": "Kayla Johnson",
-          "mark": "45.75"
-        },
-        {
-          "gender": "girls",
-          "event": "300m",
-          "place": 8,
-          "athlete": "Margaret Howland",
-          "mark": "45.90"
-        },
-        {
-          "gender": "girls",
-          "event": "600m",
-          "place": 3,
-          "athlete": "Megan Steenburgh",
-          "mark": "1:42.65"
-        },
-        {
-          "gender": "girls",
-          "event": "600m",
-          "place": 5,
-          "athlete": "Megan Goetz",
-          "mark": "1:45.73"
-        },
-        {
-          "gender": "girls",
-          "event": "600m",
-          "place": 9,
-          "athlete": "Megan Anderson",
-          "mark": "1:48.39"
-        },
-        {
-          "gender": "girls",
-          "event": "1000m",
-          "place": 2,
-          "athlete": "Megan Goetz",
-          "mark": "3:14.07"
-        },
-        {
-          "gender": "girls",
-          "event": "1000m",
-          "place": 7,
-          "athlete": "Laura Straw",
-          "mark": "3:23.09"
-        },
-        {
-          "gender": "girls",
-          "event": "1000m",
-          "place": 11,
-          "athlete": "Stephanie Zieno",
-          "mark": "3:27.27"
-        },
-        {
-          "gender": "girls",
-          "event": "1000m",
-          "place": 13,
-          "athlete": "Erika Hess",
-          "mark": "3:33.64"
-        },
-        {
-          "gender": "girls",
-          "event": "1500m",
-          "place": 2,
-          "athlete": "Lauren Ferrimani",
-          "mark": "5:03.09"
-        },
-        {
-          "gender": "girls",
-          "event": "1500m",
-          "place": 4,
-          "athlete": "Laura Cass",
-          "mark": "5:12.67"
-        },
-        {
-          "gender": "girls",
-          "event": "3000m",
-          "place": 1,
-          "athlete": "Laura Cass",
-          "mark": "10:33.97"
-        },
-        {
-          "gender": "girls",
-          "event": "3000m",
-          "place": 3,
-          "athlete": "Lauren Ferrimani",
-          "mark": "11:18.14"
-        },
-        {
-          "gender": "girls",
-          "event": "3000m",
-          "place": 11,
-          "athlete": "Celeste Fuqua",
-          "mark": "12:11.22"
-        },
-        {
-          "gender": "girls",
-          "event": "3000m",
-          "place": 14,
-          "athlete": "Jessica Erickson",
-          "mark": "12:44.97"
-        },
-        {
-          "gender": "girls",
-          "event": "3000m",
-          "place": 15,
-          "athlete": "Jaclyn Franco",
-          "mark": "12:49.70"
-        },
-        {
-          "gender": "girls",
-          "event": "55mH",
-          "place": 2,
-          "athlete": "Jessica Budgen",
-          "mark": "9.08"
-        },
-        {
-          "gender": "girls",
-          "event": "55mH",
-          "place": 7,
-          "athlete": "Lauren Olson",
-          "mark": "10.10"
-        },
-        {
-          "gender": "girls",
-          "event": "55mH",
-          "place": 8,
-          "athlete": "Alayna Gesinger",
-          "mark": "10.27"
-        },
-        {
-          "gender": "girls",
-          "event": "55mH",
-          "place": 9,
-          "athlete": "Jaclyn Rossi",
-          "mark": "10.50"
-        },
-        {
-          "gender": "girls",
-          "event": "4x200",
-          "place": 3,
-          "athlete": "",
-          "mark": "1:53.53"
-        },
-        {
-          "gender": "girls",
-          "event": "4x400",
-          "place": 1,
-          "athlete": "",
-          "mark": "4:16.07"
-        },
-        {
-          "gender": "girls",
-          "event": "4x800",
-          "place": 1,
-          "athlete": "",
-          "mark": "10:20.46"
-        },
-        {
-          "gender": "girls",
-          "event": "HJ",
-          "place": 2,
-          "athlete": "Erika Hess",
-          "mark": "4-10"
-        },
-        {
-          "gender": "girls",
-          "event": "HJ",
-          "place": 4,
-          "athlete": "Jessica Budgen",
-          "mark": "4-8"
-        },
-        {
-          "gender": "girls",
-          "event": "HJ",
-          "place": 8,
-          "athlete": "Lauren Olson",
-          "mark": "4-4"
-        },
-        {
-          "gender": "girls",
-          "event": "LJ",
-          "place": 4,
-          "athlete": "Kristen Lee",
-          "mark": "15-8.75"
-        },
-        {
-          "gender": "girls",
-          "event": "TJ",
-          "place": 6,
-          "athlete": "Alayna Gesinger",
-          "mark": "31-3.5"
-        },
         {
           "gender": "boys",
           "event": "55m",
@@ -6452,12 +6353,237 @@
           "place": 1,
           "athlete": "Mike Reynolds",
           "mark": "14-1"
+        },
+        {
+          "gender": "girls",
+          "event": "55m",
+          "place": 2,
+          "athlete": "Kayla Johnson",
+          "mark": "7.63"
+        },
+        {
+          "gender": "girls",
+          "event": "55m",
+          "place": 10,
+          "athlete": "Kristen Lee",
+          "mark": "7.95"
+        },
+        {
+          "gender": "girls",
+          "event": "300m",
+          "place": 6,
+          "athlete": "Kayla Johnson",
+          "mark": "45.75"
+        },
+        {
+          "gender": "girls",
+          "event": "300m",
+          "place": 8,
+          "athlete": "Margaret Howland",
+          "mark": "45.90"
+        },
+        {
+          "gender": "girls",
+          "event": "600m",
+          "place": 3,
+          "athlete": "Megan Steenburgh",
+          "mark": "1:42.65"
+        },
+        {
+          "gender": "girls",
+          "event": "600m",
+          "place": 5,
+          "athlete": "Megan Goetz",
+          "mark": "1:45.73"
+        },
+        {
+          "gender": "girls",
+          "event": "600m",
+          "place": 9,
+          "athlete": "Megan Anderson",
+          "mark": "1:48.39"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 2,
+          "athlete": "Megan Goetz",
+          "mark": "3:14.07"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 7,
+          "athlete": "Laura Straw",
+          "mark": "3:23.09"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 11,
+          "athlete": "Stephanie Zeino",
+          "mark": "3:27.27"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 13,
+          "athlete": "Erika Hess",
+          "mark": "3:33.64"
+        },
+        {
+          "gender": "girls",
+          "event": "1500m",
+          "place": 2,
+          "athlete": "Lauren Ferrimani",
+          "mark": "5:03.09"
+        },
+        {
+          "gender": "girls",
+          "event": "1500m",
+          "place": 4,
+          "athlete": "Laura Cass",
+          "mark": "5:12.67"
+        },
+        {
+          "gender": "girls",
+          "event": "3000m",
+          "place": 1,
+          "athlete": "Laura Cass",
+          "mark": "10:33.97"
+        },
+        {
+          "gender": "girls",
+          "event": "3000m",
+          "place": 3,
+          "athlete": "Lauren Ferrimani",
+          "mark": "11:18.14"
+        },
+        {
+          "gender": "girls",
+          "event": "3000m",
+          "place": 11,
+          "athlete": "Celeste Fuqua",
+          "mark": "12:11.22"
+        },
+        {
+          "gender": "girls",
+          "event": "3000m",
+          "place": 14,
+          "athlete": "Jessica Erickson",
+          "mark": "12:44.97"
+        },
+        {
+          "gender": "girls",
+          "event": "3000m",
+          "place": 15,
+          "athlete": "Jaclyn Franco",
+          "mark": "12:49.70"
+        },
+        {
+          "gender": "girls",
+          "event": "RW",
+          "place": 3,
+          "athlete": "Rachel Gandell",
+          "mark": "8:00.82"
+        },
+        {
+          "gender": "girls",
+          "event": "55mH",
+          "place": 2,
+          "athlete": "Jessica Budgen",
+          "mark": "9.08"
+        },
+        {
+          "gender": "girls",
+          "event": "55mH",
+          "place": 7,
+          "athlete": "Lauren Olson",
+          "mark": "10.10"
+        },
+        {
+          "gender": "girls",
+          "event": "55mH",
+          "place": 8,
+          "athlete": "Alayna Gesinger",
+          "mark": "10.27"
+        },
+        {
+          "gender": "girls",
+          "event": "55mH",
+          "place": 9,
+          "athlete": "Jaclyn Rossi",
+          "mark": "10.50"
+        },
+        {
+          "gender": "girls",
+          "event": "4x200",
+          "place": 3,
+          "athlete": "",
+          "mark": "1:53.53"
+        },
+        {
+          "gender": "girls",
+          "event": "4x400",
+          "place": 1,
+          "athlete": "",
+          "mark": "4:16.07"
+        },
+        {
+          "gender": "girls",
+          "event": "4x800",
+          "place": 1,
+          "athlete": "",
+          "mark": "10:20.46"
+        },
+        {
+          "gender": "girls",
+          "event": "HJ",
+          "place": 2,
+          "athlete": "Erika Hess",
+          "mark": "4-10.00"
+        },
+        {
+          "gender": "girls",
+          "event": "HJ",
+          "place": 4,
+          "athlete": "Jessica Budgen",
+          "mark": "4-08.00"
+        },
+        {
+          "gender": "girls",
+          "event": "HJ",
+          "place": 8,
+          "athlete": "Lauren Olson",
+          "mark": "4-04.00"
+        },
+        {
+          "gender": "girls",
+          "event": "LJ",
+          "place": 4,
+          "athlete": "Kristen Lee",
+          "mark": "15-08.75"
+        },
+        {
+          "gender": "girls",
+          "event": "TJ",
+          "place": 6,
+          "athlete": "Alayna Gesinger",
+          "mark": "31-03.50"
         }
       ],
-      "meet": "Section V Sectional Championships",
+      "meet": "Section V Class A Championships",
       "date": "2004-02-13",
-      "venue": "RIT",
-      "source": "https://ny.milesplit.com/meets/386966-section-5-sectional-champs-2004/teams/11209"
+      "venue": "Hobart & William Smith Colleges",
+      "source": "Girls: official Section V results file (supplied by the team). Boys: MileSplit (https://ny.milesplit.com/meets/386966-section-5-sectional-champs-2004/teams/11209)",
+      "team": {
+        "girls": {
+          "place": 1,
+          "points": 110.0,
+          "winner": "Fairport",
+          "winner_points": 110.0
+        }
+      }
     }
   ]
 }
