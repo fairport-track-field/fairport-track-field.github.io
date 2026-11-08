@@ -6264,97 +6264,6 @@
       "year": 2004,
       "results": [
         {
-          "gender": "boys",
-          "event": "55m",
-          "place": 1,
-          "athlete": "Spenser Carter",
-          "mark": "6.70"
-        },
-        {
-          "gender": "boys",
-          "event": "55m",
-          "place": 17,
-          "athlete": "Satushi Ikegayu",
-          "mark": "7.26"
-        },
-        {
-          "gender": "boys",
-          "event": "600m",
-          "place": 10,
-          "athlete": "Jesse Hubbell",
-          "mark": "1:32.53"
-        },
-        {
-          "gender": "boys",
-          "event": "600m",
-          "place": 13,
-          "athlete": "Joey Priola",
-          "mark": "1:35.32"
-        },
-        {
-          "gender": "boys",
-          "event": "1000m",
-          "place": 13,
-          "athlete": "John Steward",
-          "mark": "3:00.39"
-        },
-        {
-          "gender": "boys",
-          "event": "1600m",
-          "place": 5,
-          "athlete": "Connor Martin",
-          "mark": "4:52.05"
-        },
-        {
-          "gender": "boys",
-          "event": "3200m",
-          "place": 3,
-          "athlete": "Connor Martin",
-          "mark": "10:15.40"
-        },
-        {
-          "gender": "boys",
-          "event": "3200m",
-          "place": 13,
-          "athlete": "DJ Boykin",
-          "mark": "11:02.57"
-        },
-        {
-          "gender": "boys",
-          "event": "3200m",
-          "place": 15,
-          "athlete": "Kyle Darey",
-          "mark": "11:14.69"
-        },
-        {
-          "gender": "boys",
-          "event": "4x200",
-          "place": 1,
-          "athlete": "",
-          "mark": "1:37.56"
-        },
-        {
-          "gender": "boys",
-          "event": "4x800",
-          "place": 6,
-          "athlete": "",
-          "mark": "9:13.25"
-        },
-        {
-          "gender": "boys",
-          "event": "HJ",
-          "place": 6,
-          "athlete": "Eric Millilo",
-          "mark": "5-6"
-        },
-        {
-          "gender": "boys",
-          "event": "PV",
-          "place": 1,
-          "athlete": "Mike Reynolds",
-          "mark": "14-1"
-        },
-        {
           "gender": "girls",
           "event": "55m",
           "place": 2,
@@ -6570,18 +6479,115 @@
           "place": 6,
           "athlete": "Alayna Gesinger",
           "mark": "31-03.50"
+        },
+        {
+          "gender": "boys",
+          "event": "55m",
+          "place": 1,
+          "athlete": "Spencer Carter",
+          "mark": "6.70"
+        },
+        {
+          "gender": "boys",
+          "event": "55m",
+          "place": 17,
+          "athlete": "Satushi Ikegayu",
+          "mark": "7.26"
+        },
+        {
+          "gender": "boys",
+          "event": "600m",
+          "place": 10,
+          "athlete": "Jesse Hubbell",
+          "mark": "1:32.53"
+        },
+        {
+          "gender": "boys",
+          "event": "600m",
+          "place": 13,
+          "athlete": "Joey Priola",
+          "mark": "1:35.32"
+        },
+        {
+          "gender": "boys",
+          "event": "1000m",
+          "place": 13,
+          "athlete": "John Steward",
+          "mark": "3:00.39"
+        },
+        {
+          "gender": "boys",
+          "event": "1600m",
+          "place": 5,
+          "athlete": "Connor Martin",
+          "mark": "4:52.05"
+        },
+        {
+          "gender": "boys",
+          "event": "3200m",
+          "place": 3,
+          "athlete": "Connor Martin",
+          "mark": "10:15.40"
+        },
+        {
+          "gender": "boys",
+          "event": "3200m",
+          "place": 13,
+          "athlete": "DJ Boykin",
+          "mark": "11:02.57"
+        },
+        {
+          "gender": "boys",
+          "event": "3200m",
+          "place": 15,
+          "athlete": "Kyle Dacey",
+          "mark": "11:14.69"
+        },
+        {
+          "gender": "boys",
+          "event": "4x200",
+          "place": 1,
+          "athlete": "",
+          "mark": "1:37.56"
+        },
+        {
+          "gender": "boys",
+          "event": "4x800",
+          "place": 6,
+          "athlete": "",
+          "mark": "9:13.25"
+        },
+        {
+          "gender": "boys",
+          "event": "HJ",
+          "place": 6,
+          "athlete": "Eric Millilo",
+          "mark": "5-06.00"
+        },
+        {
+          "gender": "boys",
+          "event": "PV",
+          "place": 1,
+          "athlete": "Mike Reynolds",
+          "mark": "14-01.00"
         }
       ],
       "meet": "Section V Class A Championships",
       "date": "2004-02-13",
       "venue": "Hobart & William Smith Colleges",
-      "source": "Girls: official Section V results file (supplied by the team). Boys: MileSplit (https://ny.milesplit.com/meets/386966-section-5-sectional-champs-2004/teams/11209)",
+      "source": "Official Section V results files (supplied by the team)",
       "team": {
         "girls": {
           "place": 1,
           "points": 110.0,
           "winner": "Fairport",
           "winner_points": 110.0
+        },
+        "boys": {
+          "place": 5,
+          "points": 40.0,
+          "winner": "Edison",
+          "winner_points": 127.5
         }
       }
     }
