@@ -1313,14 +1313,11 @@
   },
   {
    "year": 2015,
+   "meet": "Section V Class A Championships",
+   "date": "2015-02-19",
+   "venue": "RIT",
+   "source": "Official Section V results file (supplied by the team)",
    "results": [
-    {
-     "gender": "girls",
-     "event": "RW",
-     "place": 8,
-     "athlete": "Anna Fish",
-     "mark": "9:10.56"
-    },
     {
      "gender": "girls",
      "event": "300m",
@@ -1369,6 +1366,13 @@
      "place": 14,
      "athlete": "Sarah Shapley",
      "mark": "3:28.96"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": null,
+     "athlete": "Heather Nortz",
+     "mark": "DNS"
     },
     {
      "gender": "girls",
@@ -1424,35 +1428,42 @@
      "event": "HJ",
      "place": 9,
      "athlete": "Allison Feder",
-     "mark": "4-8"
+     "mark": "4-08.00"
     },
     {
      "gender": "girls",
      "event": "HJ",
      "place": 10,
      "athlete": "Meg Beiter",
-     "mark": "4-6"
+     "mark": "4-06.00"
     },
     {
      "gender": "girls",
      "event": "TJ",
      "place": 7,
-     "athlete": "Zara Lakehal-Ayat",
-     "mark": "31-2.25"
+     "athlete": "Zara Lakehal Ayat",
+     "mark": "31-02.25"
     },
     {
      "gender": "girls",
      "event": "SP",
      "place": 5,
      "athlete": "Alexa Guzman",
-     "mark": "30-2.5"
+     "mark": "30-02.50"
     },
     {
      "gender": "girls",
      "event": "SP",
      "place": 6,
      "athlete": "Gabrielle Bell",
-     "mark": "28-6"
+     "mark": "28-06.00"
+    },
+    {
+     "gender": "girls",
+     "event": "RW",
+     "place": 8,
+     "athlete": "Anna Fish",
+     "mark": "9:10.56"
     },
     {
      "gender": "boys",
@@ -1512,6 +1523,13 @@
     },
     {
      "gender": "boys",
+     "event": "1600m",
+     "place": null,
+     "athlete": "Majd Rouhana",
+     "mark": "DNS"
+    },
+    {
+     "gender": "boys",
      "event": "3200m",
      "place": 3,
      "athlete": "Majd Rouhana",
@@ -1564,41 +1582,58 @@
      "event": "HJ",
      "place": 4,
      "athlete": "Jared Mathews",
-     "mark": "6-0"
-    },
-    {
-     "gender": "boys",
-     "event": "LJ",
-     "place": 5,
-     "athlete": "Justin Robinson",
-     "mark": "19-4.5"
-    },
-    {
-     "gender": "boys",
-     "event": "LJ",
-     "place": 9,
-     "athlete": "Liam Gordon",
-     "mark": "17-11"
-    },
-    {
-     "gender": "boys",
-     "event": "TJ",
-     "place": 6,
-     "athlete": "Justin Robinson",
-     "mark": "38-7.75"
+     "mark": "6-00.00"
     },
     {
      "gender": "boys",
      "event": "PV",
      "place": 2,
      "athlete": "Jared Mathews",
-     "mark": "13-6"
+     "mark": "13-06.00"
+    },
+    {
+     "gender": "boys",
+     "event": "LJ",
+     "place": 5,
+     "athlete": "Justin Robinson",
+     "mark": "19-04.50"
+    },
+    {
+     "gender": "boys",
+     "event": "LJ",
+     "place": 9,
+     "athlete": "Liam Gordon",
+     "mark": "17-11.00"
+    },
+    {
+     "gender": "boys",
+     "event": "TJ",
+     "place": 6,
+     "athlete": "Justin Robinson",
+     "mark": "38-07.75"
+    },
+    {
+     "gender": "boys",
+     "event": "TJ",
+     "place": null,
+     "athlete": "Cinque Hardin",
+     "mark": "DNS"
     }
    ],
-   "meet": "Section V Class A Championships",
-   "date": "2015-02-19",
-   "venue": "RIT",
-   "source": "https://ny.milesplit.com/meets/189062-section-5-sectional-champs-2015/teams/11209"
+   "team": {
+    "girls": {
+     "place": 9,
+     "points": 19.0,
+     "winner": "Rush-Henrietta",
+     "winner_points": 173.0
+    },
+    "boys": {
+     "place": 3,
+     "points": 56.0,
+     "winner": "Rush-Henrietta",
+     "winner_points": 128.0
+    }
+   }
   },
   {
    "year": 2016,
