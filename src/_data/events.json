@@ -1,0 +1,21 @@
+[
+  { "id": "55m",   "label": "55m",               "group": "Track",  "measure": "time",     "girls": "55m",   "boys": "55m" },
+  { "id": "300m",  "label": "300m",              "group": "Track",  "measure": "time",     "girls": "300m",  "boys": "300m" },
+  { "id": "600m",  "label": "600m",              "group": "Track",  "measure": "time",     "girls": "600m",  "boys": "600m" },
+  { "id": "1000m", "label": "1000m",             "group": "Track",  "measure": "time",     "girls": "1000m", "boys": "1000m" },
+  { "id": "mile",  "label": "1500m / 1600m",     "group": "Track",  "measure": "time",     "girls": "1500m", "boys": "1600m" },
+  { "id": "2mile", "label": "3000m / 3200m",     "group": "Track",  "measure": "time",     "girls": "3000m", "boys": "3200m" },
+  { "id": "55mH",  "label": "55m Hurdles",       "group": "Track",  "measure": "time",     "girls": "55mH",  "boys": "55mH" },
+  { "id": "RW",    "label": "1500m Racewalk",    "group": "Track",  "measure": "time",     "girls": "RW",    "boys": null },
+  { "id": "LJ",    "label": "Long Jump",         "group": "Field",  "measure": "distance", "girls": "LJ",    "boys": "LJ" },
+  { "id": "TJ",    "label": "Triple Jump",       "group": "Field",  "measure": "distance", "girls": "TJ",    "boys": "TJ" },
+  { "id": "HJ",    "label": "High Jump",         "group": "Field",  "measure": "distance", "girls": "HJ",    "boys": "HJ" },
+  { "id": "PV",    "label": "Pole Vault",        "group": "Field",  "measure": "distance", "girls": "PV",    "boys": "PV" },
+  { "id": "SP",    "label": "Shot Put",          "group": "Field",  "measure": "distance", "girls": "SP",    "boys": "SP" },
+  { "id": "WT",    "label": "Weight Throw",      "group": "Field",  "measure": "distance", "girls": "WT",    "boys": "WT" },
+  { "id": "4x200", "label": "4x200m Relay",      "group": "Relays", "measure": "time",     "girls": "4x200", "boys": "4x200" },
+  { "id": "4x400", "label": "4x400m Relay",      "group": "Relays", "measure": "time",     "girls": "4x400", "boys": "4x400" },
+  { "id": "4x800", "label": "4x800m Relay",      "group": "Relays", "measure": "time",     "girls": "4x800", "boys": "4x800" },
+  { "id": "SMR",   "label": "Sprint Medley",     "group": "Relays", "measure": "time",     "girls": "SMR",   "boys": "SMR" },
+  { "id": "DMR",   "label": "Distance Medley",   "group": "Relays", "measure": "time",     "girls": "DMR",   "boys": "DMR" }
+]

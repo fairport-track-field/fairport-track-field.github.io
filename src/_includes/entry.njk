@@ -1,0 +1,8 @@
+{#- Renders who set a mark: athletes, or the meet name for unattributed relays -#}
+{%- if entry.athletes -%}
+  {{ entry.athletes }}
+{%- elif entry.meet -%}
+  <span class="muted">Relay at {{ entry.meet }}</span>
+{%- else -%}
+  <span class="muted">Name not on file</span>
+{%- endif -%}

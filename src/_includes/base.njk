@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if title %}{{ title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <link rel="preload" href="/assets/fonts/big-shoulders-display-latin-900-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/site.css">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+</head>
+<body class="page-{{ page.fileSlug or 'home' }}">
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="masthead">
+    <div class="wrap masthead__inner">
+      <a class="wordmark" href="/">
+        <span class="wordmark__town">Fairport</span>
+        <span class="wordmark__sport">Track &amp; Field</span>
+      </a>
+      <nav class="nav" aria-label="Main">
+        {% set links = [
+          ["/news/", "News"],
+          ["/schedule/", "Schedule & results"],
+          ["/records/", "School records"],
+          ["/top-10/", "Top 10"],
+          ["/standards/", "Varsity standards"],
+          ["/history/", "Championship history"]
+        ] %}
+        {% for link in links %}
+          <a href="{{ link[0] }}"{% if page.url == link[0] or (link[0] == '/news/' and page.url.startsWith('/news/')) %} aria-current="page"{% endif %}>{{ link[1] }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    {{ content | safe }}
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer__inner">
+      <p class="footer__name">Fairport Red Raiders Track &amp; Field</p>
+      <p>Fairport High School, Fairport, New York. Meet results are timed and posted by {{ site.results_provider }}{% if site.results_home %} — <a href="{{ site.results_home }}">see all results</a>{% endif %}.</p>
+      {% if site.instagram or site.contact_email %}
+      <p>
+        {% if site.instagram %}<a href="{{ site.instagram }}">Instagram</a>{% endif %}
+        {% if site.contact_email %}<a href="mailto:{{ site.contact_email }}">Contact the coaches</a>{% endif %}
+      </p>
+      {% endif %}
+    </div>
+  </footer>
+  <script src="/assets/site.js" defer></script>
+</body>
+</html>

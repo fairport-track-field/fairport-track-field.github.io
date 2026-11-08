@@ -1,0 +1,17 @@
+---
+layout: base.njk
+title: News
+permalink: /news/
+---
+<div class="wrap wrap--text">
+  <h1 class="page-title">Team news</h1>
+  {% for post in collections.posts %}
+    <article class="teaser">
+      <h2 class="teaser__title"><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+      <p class="teaser__date"><time datetime="{{ post.date | isoDate }}">{{ post.date | longDate }}</time></p>
+      <p>{{ post.content | excerpt }}</p>
+    </article>
+  {% else %}
+    <p class="empty">No posts yet.</p>
+  {% endfor %}
+</div>

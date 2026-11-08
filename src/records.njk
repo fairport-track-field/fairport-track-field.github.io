@@ -1,0 +1,47 @@
+---
+layout: base.njk
+title: School records
+permalink: /records/
+---
+<div class="wrap">
+  <h1 class="page-title">Indoor school records</h1>
+  <p class="page-lede">The best mark in Fairport history for every indoor event. Years are the year the season ended.</p>
+
+  {% for group in rankings.events | groupBy("group") %}
+  <section class="records-group" aria-labelledby="rg-{{ loop.index }}">
+    <h2 class="section-title" id="rg-{{ loop.index }}">{{ group.name }}</h2>
+    <div class="table-scroll">
+    <table class="records">
+      <thead>
+        <tr><th scope="col">Event</th><th scope="col">Girls</th><th scope="col">Boys</th></tr>
+      </thead>
+      <tbody>
+        {% for event in group.items %}
+        <tr>
+          <th scope="row" class="records__event"><a href="/top-10/#{{ event.id }}">{{ event.label }}</a></th>
+          {% for gender in ["girls", "boys"] %}
+          <td class="records__cell">
+            {% set list = event.lists[gender] %}
+            {% if list and list.record.length %}
+              {% for entry in list.record %}
+                <div class="record">
+                  <span class="record__mark">{{ entry.mark }}</span>
+                  <span class="record__who">{% include "entry.njk" %}</span>
+                  <span class="record__year">{{ entry.year }}{% if list.record.length > 1 %}, tied{% endif %}</span>
+                </div>
+              {% endfor %}
+            {% elif list %}
+              <span class="muted">No mark on file</span>
+            {% else %}
+              <span class="muted">Not contested</span>
+            {% endif %}
+          </td>
+          {% endfor %}
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    </div>
+  </section>
+  {% endfor %}
+</div>
