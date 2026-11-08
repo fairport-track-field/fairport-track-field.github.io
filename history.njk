@@ -1,0 +1,44 @@
+---
+layout: base.njk
+description: "Fairport Red Raiders track and field results at divisional, county, sectional and state championships."
+title: Championship history
+permalink: /history/
+---
+<div class="wrap">
+  <h1 class="page-title">Championship history</h1>
+  <p class="page-lede">Team finishes and individual champions at divisionals, counties, sectionals, state qualifiers and states.</p>
+
+  {% set seasons = championships.results | sort(true, false, "year") | groupBy("year") %}
+  {% for season in seasons %}
+  <section class="season" aria-labelledby="season-{{ season.name }}">
+    <h2 class="section-title" id="season-{{ season.name }}">{{ season.name | seasonLabel }}</h2>
+    <div class="table-scroll">
+    <table class="history">
+      <thead><tr><th scope="col">Meet</th><th scope="col">Girls</th><th scope="col">Boys</th><th scope="col">Champions</th></tr></thead>
+      <tbody>
+      {% for r in season.items %}
+        <tr>
+          <th scope="row">{{ r.meet }}</th>
+          <td class="history__place">{{ r.girls or "—" }}</td>
+          <td class="history__place">{{ r.boys or "—" }}</td>
+          <td>
+            {% if r.champions and r.champions.length %}
+            <ul class="champions">
+              {% for c in r.champions %}<li><strong>{{ c.athlete }}</strong>, {{ c.gender }} {{ c.event }}{% if c.mark %} ({{ c.mark }}){% endif %}</li>{% endfor %}
+            </ul>
+            {% endif %}
+            {% if r.notes %}<p class="history__note">{{ r.notes }}</p>{% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    </div>
+  </section>
+  {% else %}
+  <div class="empty-state">
+    <p><strong>Championship results haven't been added yet.</strong></p>
+    <p>Add them to <code>src/_data/championships.json</code> and they'll appear here, grouped by season.</p>
+  </div>
+  {% endfor %}
+</div>

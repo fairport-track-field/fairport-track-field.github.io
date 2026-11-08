@@ -1,0 +1,34 @@
+---
+layout: base.njk
+description: "Fairport Red Raiders indoor track and field meet schedule with dates, locations, times and links to Yen Timing results."
+title: Schedule & results
+permalink: /schedule/
+---
+<div class="wrap">
+  <h1 class="page-title">{{ schedule.season }} schedule</h1>
+  <p class="page-lede">All meets are timed by {{ site.results_provider }}. Full results are linked here once they're posted.</p>
+
+  <div class="table-scroll">
+  <table class="schedule">
+    <thead>
+      <tr><th scope="col">Date</th><th scope="col">Meet</th><th scope="col">Location</th><th scope="col">Time</th><th scope="col">Results</th></tr>
+    </thead>
+    <tbody>
+      {% for meet in schedule.meets %}
+      <tr data-date="{{ meet.date }}" data-end="{{ meet.end_date or meet.date }}"{% if meet.championship %} class="is-champ"{% endif %}>
+        <td class="schedule__date"><span class="schedule__dow">{{ meet.date | weekday }}</span> {{ meet.date | monthDay }}{% if meet.end_date %}–{{ meet.end_date | monthDay }}{% endif %}</td>
+        <th scope="row" class="schedule__meet">{{ meet.name }}</th>
+        <td>{{ meet.location }}</td>
+        <td>{{ meet.time or "TBA" }}</td>
+        <td class="schedule__results">
+          {% if meet.results_url %}<a href="{{ meet.results_url }}">Results</a>{% endif %}
+          {% if meet.recap %}<a href="{{ meet.recap }}">Recap</a>{% endif %}
+          {% if not meet.results_url and not meet.recap %}<span class="muted" data-pending>Not yet posted</span>{% endif %}
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  <p class="legend"><span class="legend__swatch" aria-hidden="true"></span> Championship meet</p>
+</div>

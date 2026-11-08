@@ -1,0 +1,22 @@
+---
+layout: base.njk
+description: "Varsity qualifying standards for Fairport High School indoor track and field, boys and girls."
+title: Varsity standards
+permalink: /standards/
+---
+<div class="wrap wrap--narrow">
+  <h1 class="page-title">Varsity standards</h1>
+  <p class="page-lede">{{ standards.note }}</p>
+  <table class="standards">
+    <thead><tr><th scope="col">Girls</th><th scope="col">Event</th><th scope="col">Boys</th></tr></thead>
+    <tbody>
+      {% for row in standards.events %}
+      <tr>
+        <td class="standards__mark">{{ row.girls }}</td>
+        <th scope="row" class="standards__event">{{ row.event }}</th>
+        <td class="standards__mark">{{ row.boys }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
