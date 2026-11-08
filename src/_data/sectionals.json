@@ -5736,7 +5736,7 @@
       "meet": "Section V Class A Championships",
       "date": "2006-02-11",
       "venue": "RIT",
-      "source": "Official Section V results file (supplied by the team; boys events only)",
+      "source": "Official Section V results files (supplied by the team)",
       "results": [
         {
           "gender": "boys",
@@ -5891,6 +5891,146 @@
           "place": 12,
           "athlete": "William Neely",
           "mark": "34-00.00"
+        },
+        {
+          "gender": "girls",
+          "event": "55m",
+          "place": 11,
+          "athlete": "Anna Champman",
+          "mark": "8.07"
+        },
+        {
+          "gender": "girls",
+          "event": "300m",
+          "place": 13,
+          "athlete": "Kayla Johnson",
+          "mark": "45.20"
+        },
+        {
+          "gender": "girls",
+          "event": "300m",
+          "place": 20,
+          "athlete": "Poloma Kim",
+          "mark": "48.36"
+        },
+        {
+          "gender": "girls",
+          "event": "600m",
+          "place": 5,
+          "athlete": "Rosie Roessel",
+          "mark": "1:42.39"
+        },
+        {
+          "gender": "girls",
+          "event": "600m",
+          "place": 7,
+          "athlete": "Megan Steenburgh",
+          "mark": "1:44.15"
+        },
+        {
+          "gender": "girls",
+          "event": "600m",
+          "place": 11,
+          "athlete": "Laura Finke",
+          "mark": "1:50.23"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 7,
+          "athlete": "Natalie Dickerson",
+          "mark": "3:19.65"
+        },
+        {
+          "gender": "girls",
+          "event": "1500m",
+          "place": 11,
+          "athlete": "Julie Cass",
+          "mark": "5:30.92"
+        },
+        {
+          "gender": "girls",
+          "event": "3000m",
+          "place": 4,
+          "athlete": "Julie Cass",
+          "mark": "11:16.85"
+        },
+        {
+          "gender": "girls",
+          "event": "3000m",
+          "place": 7,
+          "athlete": "Celeste Fuqua",
+          "mark": "11:30.40"
+        },
+        {
+          "gender": "girls",
+          "event": "RW",
+          "place": 8,
+          "athlete": "Rebecca Rice",
+          "mark": "9:12.25"
+        },
+        {
+          "gender": "girls",
+          "event": "4x200",
+          "place": 6,
+          "athlete": "",
+          "mark": "1:56.46"
+        },
+        {
+          "gender": "girls",
+          "event": "4x800",
+          "place": 3,
+          "athlete": "",
+          "mark": "10:20.17"
+        },
+        {
+          "gender": "girls",
+          "event": "HJ",
+          "place": 9,
+          "athlete": "Kelsey Johnson",
+          "mark": "4-02.00"
+        },
+        {
+          "gender": "girls",
+          "event": "HJ",
+          "place": 9,
+          "athlete": "Emily Olson",
+          "mark": "4-02.00"
+        },
+        {
+          "gender": "girls",
+          "event": "PV",
+          "place": null,
+          "athlete": "Christine O'Neill",
+          "mark": "NH"
+        },
+        {
+          "gender": "girls",
+          "event": "LJ",
+          "place": 9,
+          "athlete": "Paige Vandermark",
+          "mark": "14-02.00"
+        },
+        {
+          "gender": "girls",
+          "event": "LJ",
+          "place": 11,
+          "athlete": "Katie Ferris",
+          "mark": "14-01.25"
+        },
+        {
+          "gender": "girls",
+          "event": "TJ",
+          "place": 11,
+          "athlete": "Paige Vandermark",
+          "mark": "31-00.00"
+        },
+        {
+          "gender": "girls",
+          "event": "SP",
+          "place": 1,
+          "athlete": "Kat McElhearn",
+          "mark": "31-04.00"
         }
       ],
       "team": {
@@ -5899,6 +6039,12 @@
           "points": 66.0,
           "winner": "Gates-Chili",
           "winner_points": 91.0
+        },
+        "girls": {
+          "place": 7,
+          "points": 23.0,
+          "winner": "Penfield",
+          "winner_points": 101.0
         }
       }
     },
