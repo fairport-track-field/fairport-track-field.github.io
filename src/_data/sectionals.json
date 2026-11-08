@@ -2827,6 +2827,176 @@
    }
   },
   {
+   "year": 2022,
+   "meet": "Section V Class A1 Championships",
+   "date": "2022-02-18",
+   "venue": "Nazareth",
+   "source": "Official Section V results file (supplied by the team)",
+   "results": [
+    {
+     "gender": "girls",
+     "event": "55m",
+     "place": 8,
+     "athlete": "Jillian Ambler",
+     "mark": "7.59"
+    },
+    {
+     "gender": "girls",
+     "event": "55m",
+     "place": 13,
+     "athlete": "Marykate Rudnicki",
+     "mark": "7.90"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 7,
+     "athlete": "Lauren Murphy",
+     "mark": "45.33"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 2,
+     "athlete": "Zoe Marcus",
+     "mark": "3:09.38"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 12,
+     "athlete": "Morgan Donovan",
+     "mark": "3:42.88"
+    },
+    {
+     "gender": "girls",
+     "event": "1500m",
+     "place": null,
+     "athlete": "Hannah Casler",
+     "mark": "DNF"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 14,
+     "athlete": "Mary Kate Fish",
+     "mark": "11:54.38"
+    },
+    {
+     "gender": "girls",
+     "event": "4x200",
+     "place": 6,
+     "athlete": "",
+     "mark": "1:54.73"
+    },
+    {
+     "gender": "girls",
+     "event": "4x400",
+     "place": null,
+     "athlete": "",
+     "mark": "DNF"
+    },
+    {
+     "gender": "girls",
+     "event": "4x800",
+     "place": 3,
+     "athlete": "",
+     "mark": "10:17.42"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 7,
+     "athlete": "Jillian Ambler",
+     "mark": "4-09.00"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 12,
+     "athlete": "Alana Lucey",
+     "mark": "4-06.00"
+    },
+    {
+     "gender": "girls",
+     "event": "LJ",
+     "place": 10,
+     "athlete": "Marykate Rudnicki",
+     "mark": "15-00.00"
+    },
+    {
+     "gender": "boys",
+     "event": "55m",
+     "place": 6,
+     "athlete": "Arnold Koumassou",
+     "mark": "6.81"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 8,
+     "athlete": "Colin Lesher",
+     "mark": "2:49.40"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 8,
+     "athlete": "Mike Taranto",
+     "mark": "4:47.10"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 1,
+     "athlete": "John Farrell",
+     "mark": "9:37.55"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 6,
+     "athlete": "Ben Schwab",
+     "mark": "10:24.75"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 10,
+     "athlete": "Tyler Cady",
+     "mark": "10:37.61"
+    },
+    {
+     "gender": "boys",
+     "event": "4x400",
+     "place": 14,
+     "athlete": "",
+     "mark": "4:08.72"
+    },
+    {
+     "gender": "boys",
+     "event": "4x800",
+     "place": 2,
+     "athlete": "",
+     "mark": "8:17.50"
+    }
+   ],
+   "team": {
+    "girls": {
+     "place": 12,
+     "points": 15.0,
+     "winner": "Webster Schroeder",
+     "winner_points": 117.0
+    },
+    "boys": {
+     "place": 9,
+     "points": 20.0,
+     "winner": "McQuaid Jesuit",
+     "winner_points": 115.0
+    }
+   }
+  },
+  {
    "year": 2023,
    "results": [
     {
