@@ -135,7 +135,7 @@ permalink: /history/
   {% if S.missing.length %}
   <div class="empty-state coverage">
     <p><strong>Seasons still to add:</strong> {% for y in S.missing %}{{ y | seasonLabel }}{% if not loop.last %}, {% endif %}{% endfor %}. (There was no 2020–21 sectional meet.)</p>
-    {% if S.partial.length %}<p><strong>Partial seasons:</strong> {% for x in S.partial %}{{ x.year | seasonLabel }} {{ x.gender }} individual results{% if not loop.last %}, {% endif %}{% endfor %}.</p>{% endif %}
+    {% if S.partial.length %}<p><strong>Partial seasons:</strong> {% for x in S.partial %}{{ x.year | seasonLabel }} {{ x.gender }} results{% if not loop.last %}, {% endif %}{% endfor %}.</p>{% endif %}
     <p>Results for those years weren't available online. To add one, add its results to <code>src/_data/sectionals.json</code>, or send the results file and they'll be added.</p>
   </div>
   {% endif %}
