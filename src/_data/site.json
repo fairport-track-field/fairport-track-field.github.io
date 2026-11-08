@@ -1,9 +1,31 @@
 {
   "title": "Fairport Track & Field",
   "short": "Fairport T&F",
-  "description": "News, schedule, results and all-time records for the Fairport Red Raiders track and field team.",
+  "description": "Team site for Fairport High School Red Raiders track and field in Fairport, NY: meet schedule, results, school records, all-time top 10 lists and team news.",
   "results_provider": "Yen Timing",
-  "results_home": "",
+  "results_home": "https://www.yentiming.com",
   "instagram": "",
-  "contact_email": ""
+  "contact_email": "",
+  "url": "https://fairport-track-field.github.io",
+  "search_title": "Fairport Track & Field | Fairport High School Red Raiders, Fairport NY",
+  "school": "Fairport High School",
+  "town": "Fairport, NY",
+  "results_links": [
+    {
+      "label": "Meet results",
+      "url": "https://www.yentiming.com/results"
+    },
+    {
+      "label": "Live results",
+      "url": "http://live.yentiming.com"
+    },
+    {
+      "label": "Section V leaderboard",
+      "url": "https://www.yentiming.com/leaderboard"
+    },
+    {
+      "label": "Section V all-time indoor list",
+      "url": "https://files.yentiming.com/indoor/SV-AT.htm"
+    }
+  ]
 }
