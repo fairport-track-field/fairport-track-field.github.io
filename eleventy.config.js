@@ -1,5 +1,6 @@
 const { HtmlBasePlugin } = require("@11ty/eleventy");
 const rankings = require("./lib/rankings.js");
+const sectionals = require("./lib/sectionals.js");
 
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 const DAYS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
@@ -18,6 +19,14 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget("src/_data/performances.csv");
 
   eleventyConfig.addGlobalData("rankings", () => rankings.build());
+  eleventyConfig.addGlobalData("sectionalStats", () => sectionals.build());
+  eleventyConfig.addWatchTarget("src/_data/sectionals.json");
+  eleventyConfig.addFilter("ordinal", (n) => {
+    const v = n % 100;
+    const suf = v >= 11 && v <= 13 ? "th" : ({ 1: "st", 2: "nd", 3: "rd" })[n % 10] || "th";
+    return `${n}${suf}`;
+  });
+  eleventyConfig.addFilter("pts", (n) => (Number.isInteger(n) ? String(n) : String(Number(n).toFixed(1))));
   eleventyConfig.addGlobalData("buildDate", () => new Date().toISOString().slice(0, 10));
   eleventyConfig.addFilter("nextMeet", (meets, today) => meets.find((m) => (m.end_date || m.date) >= today) || null);
   eleventyConfig.addFilter("head", (arr, n) => (arr || []).slice(0, n));

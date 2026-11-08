@@ -285,6 +285,34 @@ tbody th { font-weight: 600; }
 .empty-state p:last-child { margin: 0; }
 code { font-size: .9em; background: var(--white); padding: .05rem .3rem; }
 
+/* Sectional history */
+.sect-summary { margin-bottom: 3rem; }
+.stat-row { display: flex; flex-wrap: wrap; gap: 1rem 3rem; margin: 0 0 1.5rem; }
+.stat-row dt { font-size: var(--step--1); color: var(--muted); font-weight: 600; }
+.stat-row dd { margin: 0; font-family: var(--display); font-weight: 900; font-size: 3rem; line-height: 1; color: var(--red); }
+.sect-table { min-width: 44rem; }
+.sect-table th[scope="row"], .champs-table td:first-child { white-space: nowrap; }
+.num { text-align: right; white-space: nowrap; }
+.champs-table { max-width: 52rem; min-width: 34rem; }
+.sect-leaders { display: grid; grid-template-columns: 1fr; gap: 2rem 4rem; margin: 3rem 0; }
+@media (min-width: 860px) { .sect-leaders { grid-template-columns: 1.3fr 1fr; } }
+.leader-list { list-style: none; margin: 0; padding: 0; }
+.leader-list li { padding: .6rem 0; border-top: 1px solid var(--rule); display: flex; flex-wrap: wrap; gap: .1rem .75rem; align-items: baseline; }
+.leader-list__count { font-family: var(--display); font-weight: 800; color: var(--red); font-size: var(--step-1); }
+.leader-list__detail { flex-basis: 100%; color: var(--muted); font-size: var(--step--1); }
+.event-titles { max-width: 26rem; }
+.season-detail { border-top: 1px solid var(--rule); }
+.season-detail:last-of-type { border-bottom: 1px solid var(--rule); }
+.season-detail summary { cursor: pointer; padding: .9rem 0; display: flex; flex-wrap: wrap; gap: .25rem 1rem; align-items: baseline; }
+.season-detail__year { font-family: var(--display); font-weight: 800; font-size: var(--step-2); color: var(--navy); }
+.season-detail__meta { color: var(--muted); }
+.season-detail__body { display: grid; grid-template-columns: 1fr; gap: 1.5rem 3rem; padding-bottom: .5rem; }
+@media (min-width: 860px) { .season-detail__body { grid-template-columns: 1fr 1fr; } }
+.season-results tr.is-scorer td { background: var(--ice); }
+.season-results tr.is-champ td { background: var(--ice); font-weight: 700; }
+.season-results tr.is-champ td:first-child { box-shadow: inset 3px 0 0 var(--red); }
+.coverage { margin: 2rem 0 3rem; max-width: 48rem; }
+
 /* Posts */
 .post__back { margin: 2rem 0 0; font-size: var(--step--1); }
 .post .page-title { margin-top: 1rem; }

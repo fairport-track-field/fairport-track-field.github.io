@@ -1,0 +1,2415 @@
+{
+ "_note": "One entry per season (year = season end). 'team' holds Fairport's official place and points when the full results were available.",
+ "seasons": [
+  {
+   "year": 2004,
+   "results": [
+    {
+     "gender": "girls",
+     "event": "RW",
+     "place": 3,
+     "athlete": "Rachel Gandell",
+     "mark": "8:00.82"
+    },
+    {
+     "gender": "girls",
+     "event": "55m",
+     "place": 2,
+     "athlete": "Kayla Johnson",
+     "mark": "7.63"
+    },
+    {
+     "gender": "girls",
+     "event": "55m",
+     "place": 10,
+     "athlete": "Kristen Lee",
+     "mark": "7.95"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 6,
+     "athlete": "Kayla Johnson",
+     "mark": "45.75"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 8,
+     "athlete": "Margaret Howland",
+     "mark": "45.90"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 3,
+     "athlete": "Megan Steenburgh",
+     "mark": "1:42.65"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 5,
+     "athlete": "Megan Goetz",
+     "mark": "1:45.73"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 9,
+     "athlete": "Megan Anderson",
+     "mark": "1:48.39"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 2,
+     "athlete": "Megan Goetz",
+     "mark": "3:14.07"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 7,
+     "athlete": "Laura Straw",
+     "mark": "3:23.09"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 11,
+     "athlete": "Stephanie Zieno",
+     "mark": "3:27.27"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 13,
+     "athlete": "Erika Hess",
+     "mark": "3:33.64"
+    },
+    {
+     "gender": "girls",
+     "event": "1500m",
+     "place": 2,
+     "athlete": "Lauren Ferrimani",
+     "mark": "5:03.09"
+    },
+    {
+     "gender": "girls",
+     "event": "1500m",
+     "place": 4,
+     "athlete": "Laura Cass",
+     "mark": "5:12.67"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 1,
+     "athlete": "Laura Cass",
+     "mark": "10:33.97"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 3,
+     "athlete": "Lauren Ferrimani",
+     "mark": "11:18.14"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 11,
+     "athlete": "Celeste Fuqua",
+     "mark": "12:11.22"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 14,
+     "athlete": "Jessica Erickson",
+     "mark": "12:44.97"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 15,
+     "athlete": "Jaclyn Franco",
+     "mark": "12:49.70"
+    },
+    {
+     "gender": "girls",
+     "event": "55mH",
+     "place": 2,
+     "athlete": "Jessica Budgen",
+     "mark": "9.08"
+    },
+    {
+     "gender": "girls",
+     "event": "55mH",
+     "place": 7,
+     "athlete": "Lauren Olson",
+     "mark": "10.10"
+    },
+    {
+     "gender": "girls",
+     "event": "55mH",
+     "place": 8,
+     "athlete": "Alayna Gesinger",
+     "mark": "10.27"
+    },
+    {
+     "gender": "girls",
+     "event": "55mH",
+     "place": 9,
+     "athlete": "Jaclyn Rossi",
+     "mark": "10.50"
+    },
+    {
+     "gender": "girls",
+     "event": "4x200",
+     "place": 3,
+     "athlete": "",
+     "mark": "1:53.53"
+    },
+    {
+     "gender": "girls",
+     "event": "4x400",
+     "place": 1,
+     "athlete": "",
+     "mark": "4:16.07"
+    },
+    {
+     "gender": "girls",
+     "event": "4x800",
+     "place": 1,
+     "athlete": "",
+     "mark": "10:20.46"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 2,
+     "athlete": "Erika Hess",
+     "mark": "4-10"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 4,
+     "athlete": "Jessica Budgen",
+     "mark": "4-8"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 8,
+     "athlete": "Lauren Olson",
+     "mark": "4-4"
+    },
+    {
+     "gender": "girls",
+     "event": "LJ",
+     "place": 4,
+     "athlete": "Kristen Lee",
+     "mark": "15-8.75"
+    },
+    {
+     "gender": "girls",
+     "event": "TJ",
+     "place": 6,
+     "athlete": "Alayna Gesinger",
+     "mark": "31-3.5"
+    },
+    {
+     "gender": "boys",
+     "event": "55m",
+     "place": 1,
+     "athlete": "Spenser Carter",
+     "mark": "6.70"
+    },
+    {
+     "gender": "boys",
+     "event": "55m",
+     "place": 17,
+     "athlete": "Satushi Ikegayu",
+     "mark": "7.26"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 10,
+     "athlete": "Jesse Hubbell",
+     "mark": "1:32.53"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 13,
+     "athlete": "Joey Priola",
+     "mark": "1:35.32"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 13,
+     "athlete": "John Steward",
+     "mark": "3:00.39"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 5,
+     "athlete": "Connor Martin",
+     "mark": "4:52.05"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 3,
+     "athlete": "Connor Martin",
+     "mark": "10:15.40"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 13,
+     "athlete": "DJ Boykin",
+     "mark": "11:02.57"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 15,
+     "athlete": "Kyle Darey",
+     "mark": "11:14.69"
+    },
+    {
+     "gender": "boys",
+     "event": "4x200",
+     "place": 1,
+     "athlete": "",
+     "mark": "1:37.56"
+    },
+    {
+     "gender": "boys",
+     "event": "4x800",
+     "place": 6,
+     "athlete": "",
+     "mark": "9:13.25"
+    },
+    {
+     "gender": "boys",
+     "event": "HJ",
+     "place": 6,
+     "athlete": "Eric Millilo",
+     "mark": "5-6"
+    },
+    {
+     "gender": "boys",
+     "event": "PV",
+     "place": 1,
+     "athlete": "Mike Reynolds",
+     "mark": "14-1"
+    }
+   ],
+   "meet": "Section V Sectional Championships",
+   "date": "2004-02-13",
+   "venue": "RIT",
+   "source": "https://ny.milesplit.com/meets/386966-section-5-sectional-champs-2004/teams/11209"
+  },
+  {
+   "year": 2014,
+   "results": [
+    {
+     "gender": "girls",
+     "event": "55mH",
+     "place": 14,
+     "athlete": "Isabel Moll",
+     "mark": "10.39"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 7,
+     "athlete": "Becca Ritter",
+     "mark": "43.29"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 5,
+     "athlete": "Loryn Bucci",
+     "mark": "1:44.91"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 6,
+     "athlete": "Sinead Sargeant",
+     "mark": "1:45.14"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 10,
+     "athlete": "Claire Gilmore",
+     "mark": "1:47.80"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 3,
+     "athlete": "Heather Nortz",
+     "mark": "3:07.36"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 9,
+     "athlete": "Michaela Meissner",
+     "mark": "3:22.31"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 10,
+     "athlete": "Grace White",
+     "mark": "3:22.61"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 13,
+     "athlete": "Christian Conner",
+     "mark": "3:24.10"
+    },
+    {
+     "gender": "girls",
+     "event": "1500m",
+     "place": 5,
+     "athlete": "Erin Sedita",
+     "mark": "5:08.09"
+    },
+    {
+     "gender": "girls",
+     "event": "1500m",
+     "place": 11,
+     "athlete": "Shannon Horan",
+     "mark": "5:19.08"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 7,
+     "athlete": "Kathryn Swider",
+     "mark": "11:41.28"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 13,
+     "athlete": "Sarah Shapley",
+     "mark": "11:56.30"
+    },
+    {
+     "gender": "girls",
+     "event": "4x200",
+     "place": 5,
+     "athlete": "",
+     "mark": "1:55.02"
+    },
+    {
+     "gender": "girls",
+     "event": "4x400",
+     "place": 3,
+     "athlete": "",
+     "mark": "4:18.76"
+    },
+    {
+     "gender": "girls",
+     "event": "4x800",
+     "place": 4,
+     "athlete": "",
+     "mark": "10:04.75"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 7,
+     "athlete": "Meg Beiter",
+     "mark": "4-06.00"
+    },
+    {
+     "gender": "girls",
+     "event": "TJ",
+     "place": 10,
+     "athlete": "Rachel Willard",
+     "mark": "31-05.25"
+    },
+    {
+     "gender": "girls",
+     "event": "SP",
+     "place": 5,
+     "athlete": "Jessica Koneski",
+     "mark": "32-00.00"
+    },
+    {
+     "gender": "girls",
+     "event": "SP",
+     "place": 9,
+     "athlete": "Alexa Guzman",
+     "mark": "28-02.50"
+    },
+    {
+     "gender": "girls",
+     "event": "SP",
+     "place": 14,
+     "athlete": "Gabrielle Bell",
+     "mark": "27-00.50"
+    },
+    {
+     "gender": "boys",
+     "event": "300m",
+     "place": 6,
+     "athlete": "Ji-ren Hailey",
+     "mark": "37.30"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 5,
+     "athlete": "Ji-ren Hailey",
+     "mark": "1:25.56"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 5,
+     "athlete": "Seamus Sargeant",
+     "mark": "2:41.49"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 8,
+     "athlete": "Mike Mallow",
+     "mark": "2:44.94"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 4,
+     "athlete": "Mike Mallow",
+     "mark": "4:41.51"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 7,
+     "athlete": "David Grouse",
+     "mark": "10:12.89"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 9,
+     "athlete": "James White",
+     "mark": "10:23.64"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 11,
+     "athlete": "Brian Swider",
+     "mark": "10:29.08"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 13,
+     "athlete": "Macrae Kozody",
+     "mark": "10:43.45"
+    },
+    {
+     "gender": "boys",
+     "event": "4x200",
+     "place": 10,
+     "athlete": "",
+     "mark": "1:42.60"
+    },
+    {
+     "gender": "boys",
+     "event": "4x400",
+     "place": 5,
+     "athlete": "",
+     "mark": "3:43.64"
+    },
+    {
+     "gender": "boys",
+     "event": "4x800",
+     "place": 5,
+     "athlete": "",
+     "mark": "8:43.69"
+    },
+    {
+     "gender": "boys",
+     "event": "HJ",
+     "place": 2,
+     "athlete": "Jared Mathews",
+     "mark": "5-10.00"
+    },
+    {
+     "gender": "boys",
+     "event": "HJ",
+     "place": null,
+     "athlete": "Andrew Beatty",
+     "mark": "NH"
+    },
+    {
+     "gender": "boys",
+     "event": "PV",
+     "place": 1,
+     "athlete": "Jared Mathews",
+     "mark": "12-09.00"
+    },
+    {
+     "gender": "boys",
+     "event": "PV",
+     "place": 2,
+     "athlete": "Dana Forsgren",
+     "mark": "12-06.00"
+    }
+   ],
+   "meet": "Section V Class A Championships",
+   "date": "2014-02-15",
+   "venue": "RIT",
+   "source": "https://ny.milesplit.com/meets/156084-section-5-sectional-champs-2014/results/283235/raw",
+   "team": {
+    "girls": {
+     "place": 8,
+     "points": 25.0,
+     "winner": "Rush-Henrietta",
+     "winner_points": 118.0
+    },
+    "boys": {
+     "place": 6,
+     "points": 39.0,
+     "winner": "McQuaid Jesuit",
+     "winner_points": 85.0
+    }
+   }
+  },
+  {
+   "year": 2015,
+   "results": [
+    {
+     "gender": "girls",
+     "event": "RW",
+     "place": 8,
+     "athlete": "Anna Fish",
+     "mark": "9:10.56"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 10,
+     "athlete": "Julia Flocco",
+     "mark": "44.65"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 16,
+     "athlete": "Emily Fish",
+     "mark": "45.60"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 2,
+     "athlete": "Sinead Sargeant",
+     "mark": "1:40.41"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 15,
+     "athlete": "Loryn Bucci",
+     "mark": "1:50.17"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 6,
+     "athlete": "Christian Conner",
+     "mark": "3:18.56"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 11,
+     "athlete": "Michaela Meissner",
+     "mark": "3:22.31"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 14,
+     "athlete": "Sarah Shapley",
+     "mark": "3:28.96"
+    },
+    {
+     "gender": "girls",
+     "event": "1500m",
+     "place": 12,
+     "athlete": "Shannon Horan",
+     "mark": "5:19.17"
+    },
+    {
+     "gender": "girls",
+     "event": "55mH",
+     "place": 7,
+     "athlete": "Isabel Moll",
+     "mark": "9.71"
+    },
+    {
+     "gender": "girls",
+     "event": "55mH",
+     "place": 8,
+     "athlete": "Daphine Postl",
+     "mark": "10.05"
+    },
+    {
+     "gender": "girls",
+     "event": "55mH",
+     "place": 9,
+     "athlete": "Olivia Bockrath",
+     "mark": "10.10"
+    },
+    {
+     "gender": "girls",
+     "event": "4x200",
+     "place": 5,
+     "athlete": "",
+     "mark": "1:56.24"
+    },
+    {
+     "gender": "girls",
+     "event": "4x400",
+     "place": 4,
+     "athlete": "",
+     "mark": "4:22.08"
+    },
+    {
+     "gender": "girls",
+     "event": "4x800",
+     "place": 6,
+     "athlete": "",
+     "mark": "10:45.36"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 9,
+     "athlete": "Allison Feder",
+     "mark": "4-8"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 10,
+     "athlete": "Meg Beiter",
+     "mark": "4-6"
+    },
+    {
+     "gender": "girls",
+     "event": "TJ",
+     "place": 7,
+     "athlete": "Zara Lakehal-Ayat",
+     "mark": "31-2.25"
+    },
+    {
+     "gender": "girls",
+     "event": "SP",
+     "place": 5,
+     "athlete": "Alexa Guzman",
+     "mark": "30-2.5"
+    },
+    {
+     "gender": "girls",
+     "event": "SP",
+     "place": 6,
+     "athlete": "Gabrielle Bell",
+     "mark": "28-6"
+    },
+    {
+     "gender": "boys",
+     "event": "55m",
+     "place": 9,
+     "athlete": "Nick Mitrano",
+     "mark": "6.98"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 5,
+     "athlete": "Josh Roman",
+     "mark": "1:29.21"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 2,
+     "athlete": "Ben Bulkeley",
+     "mark": "2:35.84"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 3,
+     "athlete": "Mike Mallow",
+     "mark": "2:39.70"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 13,
+     "athlete": "Anthony Scalise",
+     "mark": "2:53.53"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 14,
+     "athlete": "Ben Cook",
+     "mark": "2:53.90"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 4,
+     "athlete": "Mike Mallow",
+     "mark": "4:42.38"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 6,
+     "athlete": "Ben Bulkeley",
+     "mark": "4:50.32"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 3,
+     "athlete": "Majd Rouhana",
+     "mark": "10:15.58"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 6,
+     "athlete": "Clayton Robinson",
+     "mark": "10:24.27"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 14,
+     "athlete": "Ryan Burnham",
+     "mark": "11:00.10"
+    },
+    {
+     "gender": "boys",
+     "event": "55mH",
+     "place": 4,
+     "athlete": "Jared Mathews",
+     "mark": "8.34"
+    },
+    {
+     "gender": "boys",
+     "event": "4x200",
+     "place": 8,
+     "athlete": "",
+     "mark": "1:42.52"
+    },
+    {
+     "gender": "boys",
+     "event": "4x400",
+     "place": 6,
+     "athlete": "",
+     "mark": "3:52.61"
+    },
+    {
+     "gender": "boys",
+     "event": "4x800",
+     "place": 2,
+     "athlete": "",
+     "mark": "8:39.61"
+    },
+    {
+     "gender": "boys",
+     "event": "HJ",
+     "place": 4,
+     "athlete": "Jared Mathews",
+     "mark": "6-0"
+    },
+    {
+     "gender": "boys",
+     "event": "LJ",
+     "place": 5,
+     "athlete": "Justin Robinson",
+     "mark": "19-4.5"
+    },
+    {
+     "gender": "boys",
+     "event": "LJ",
+     "place": 9,
+     "athlete": "Liam Gordon",
+     "mark": "17-11"
+    },
+    {
+     "gender": "boys",
+     "event": "TJ",
+     "place": 6,
+     "athlete": "Justin Robinson",
+     "mark": "38-7.75"
+    },
+    {
+     "gender": "boys",
+     "event": "PV",
+     "place": 2,
+     "athlete": "Jared Mathews",
+     "mark": "13-6"
+    }
+   ],
+   "meet": "Section V Class A Championships",
+   "date": "2015-02-19",
+   "venue": "RIT",
+   "source": "https://ny.milesplit.com/meets/189062-section-5-sectional-champs-2015/teams/11209"
+  },
+  {
+   "year": 2016,
+   "results": [
+    {
+     "gender": "girls",
+     "event": "55m",
+     "place": 8,
+     "athlete": "Samantha Ritter",
+     "mark": "7.64"
+    },
+    {
+     "gender": "girls",
+     "event": "55m",
+     "place": 15,
+     "athlete": "Rebecca Glenn",
+     "mark": "7.81"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 7,
+     "athlete": "Julia Flocco",
+     "mark": "44.02"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 10,
+     "athlete": "Emily Fish",
+     "mark": "44.56"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 14,
+     "athlete": "Crystal Elvin",
+     "mark": "45.31"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 15,
+     "athlete": "Taylor Atkins-Lewis",
+     "mark": "45.62"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 1,
+     "athlete": "Sinead Sargeant",
+     "mark": "1:41.03"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 7,
+     "athlete": "Anna Cuciurean-Zapan",
+     "mark": "1:46.40"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 13,
+     "athlete": "Elizabeth Priest",
+     "mark": "1:54.75"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": null,
+     "athlete": "Dena Ramos",
+     "mark": "DQ"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 6,
+     "athlete": "Sarah Henretta",
+     "mark": "3:18.18"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 15,
+     "athlete": "Jasmine Mohan",
+     "mark": "3:31.38"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 16,
+     "athlete": "Sarah Shapley",
+     "mark": "3:42.94"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 10,
+     "athlete": "Morgan Brady",
+     "mark": "11:39.97"
+    },
+    {
+     "gender": "girls",
+     "event": "55mH",
+     "place": 3,
+     "athlete": "Isabel Moll",
+     "mark": "9.39"
+    },
+    {
+     "gender": "girls",
+     "event": "55mH",
+     "place": 4,
+     "athlete": "Olivia Bockrath",
+     "mark": "9.47"
+    },
+    {
+     "gender": "girls",
+     "event": "55mH",
+     "place": 5,
+     "athlete": "Daphine Postl",
+     "mark": "9.68"
+    },
+    {
+     "gender": "girls",
+     "event": "4x200",
+     "place": 3,
+     "athlete": "",
+     "mark": "1:51.57"
+    },
+    {
+     "gender": "girls",
+     "event": "4x400",
+     "place": 2,
+     "athlete": "",
+     "mark": "4:13.48"
+    },
+    {
+     "gender": "girls",
+     "event": "4x800",
+     "place": 5,
+     "athlete": "",
+     "mark": "10:58.15"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 5,
+     "athlete": "Allison Feder",
+     "mark": "4-08.00"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": null,
+     "athlete": "Jennifer Maysuch",
+     "mark": "NH"
+    },
+    {
+     "gender": "girls",
+     "event": "LJ",
+     "place": 8,
+     "athlete": "Allison Feder",
+     "mark": "15-03.00"
+    },
+    {
+     "gender": "girls",
+     "event": "LJ",
+     "place": 9,
+     "athlete": "Samantha Ritter",
+     "mark": "14-11.50"
+    },
+    {
+     "gender": "girls",
+     "event": "LJ",
+     "place": 10,
+     "athlete": "Rebecca Glenn",
+     "mark": "14-09.50"
+    },
+    {
+     "gender": "girls",
+     "event": "TJ",
+     "place": 5,
+     "athlete": "Zara Lakehal-Ayat",
+     "mark": "32-03.00"
+    },
+    {
+     "gender": "girls",
+     "event": "TJ",
+     "place": 6,
+     "athlete": "Allison Feder",
+     "mark": "31-07.50"
+    },
+    {
+     "gender": "girls",
+     "event": "RW",
+     "place": null,
+     "athlete": "Anna Fish",
+     "mark": "DQ"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 1,
+     "athlete": "Ben Bulkeley",
+     "mark": "1:22.96"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 13,
+     "athlete": "Kevin Winn",
+     "mark": "1:30.97"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 1,
+     "athlete": "Mike Mallow",
+     "mark": "2:32.85"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 8,
+     "athlete": "Ethan Abell",
+     "mark": "2:44.60"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 4,
+     "athlete": "Macrae Kozody",
+     "mark": "4:43.56"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 4,
+     "athlete": "Majd Rouhana",
+     "mark": "10:06.22"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 8,
+     "athlete": "Matt Orcutt",
+     "mark": "10:14.00"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 12,
+     "athlete": "Jack Callard",
+     "mark": "10:32.95"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 14,
+     "athlete": "Brian Egan",
+     "mark": "10:57.31"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": null,
+     "athlete": "Sean Henretta",
+     "mark": "DQ"
+    },
+    {
+     "gender": "boys",
+     "event": "55mH",
+     "place": 8,
+     "athlete": "Zack Wigent",
+     "mark": "8.90"
+    },
+    {
+     "gender": "boys",
+     "event": "4x200",
+     "place": 7,
+     "athlete": "",
+     "mark": "1:46.41"
+    },
+    {
+     "gender": "boys",
+     "event": "4x400",
+     "place": 7,
+     "athlete": "",
+     "mark": "3:48.74"
+    },
+    {
+     "gender": "boys",
+     "event": "4x800",
+     "place": 1,
+     "athlete": "",
+     "mark": "8:20.24"
+    },
+    {
+     "gender": "boys",
+     "event": "HJ",
+     "place": 9,
+     "athlete": "Zack Wigent",
+     "mark": "5-04.00"
+    },
+    {
+     "gender": "boys",
+     "event": "PV",
+     "place": 9,
+     "athlete": "Ryan Harman",
+     "mark": "11-00.00"
+    },
+    {
+     "gender": "boys",
+     "event": "TJ",
+     "place": 10,
+     "athlete": "Mason Kozody",
+     "mark": "38-06.50"
+    }
+   ],
+   "meet": "Section V Class A Championships",
+   "date": "2016-02-17",
+   "venue": "RIT",
+   "source": "https://ny.milesplit.com/meets/223611-section-5-sectional-champs-2016/results/423950/raw",
+   "team": {
+    "girls": {
+     "place": 5,
+     "points": 44.0,
+     "winner": "Rush-Henrietta",
+     "winner_points": 187.0
+    },
+    "boys": {
+     "place": 6,
+     "points": 38.0,
+     "winner": "McQuaid Jesuit",
+     "winner_points": 127.0
+    }
+   }
+  },
+  {
+   "year": 2019,
+   "results": [
+    {
+     "gender": "girls",
+     "event": "55m",
+     "place": 7,
+     "athlete": "Lillian Hicks",
+     "mark": "7.66"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 4,
+     "athlete": "Lillian Hicks",
+     "mark": "43.39"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 12,
+     "athlete": "Macky Nobes",
+     "mark": "3:26.39"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 13,
+     "athlete": "Elizabeth Fish",
+     "mark": "3:33.41"
+    },
+    {
+     "gender": "girls",
+     "event": "1500m",
+     "place": 2,
+     "athlete": "Zoe Marcus",
+     "mark": "5:02.24"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 12,
+     "athlete": "Julia Miller",
+     "mark": "12:25.61"
+    },
+    {
+     "gender": "girls",
+     "event": "4x200",
+     "place": 8,
+     "athlete": "",
+     "mark": "1:55.97"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 8,
+     "athlete": "Chivonna Reed",
+     "mark": "4-6"
+    },
+    {
+     "gender": "girls",
+     "event": "LJ",
+     "place": 5,
+     "athlete": "Josie Keenan",
+     "mark": "16-3"
+    },
+    {
+     "gender": "girls",
+     "event": "TJ",
+     "place": 6,
+     "athlete": "Josie Keenan",
+     "mark": "34-9"
+    },
+    {
+     "gender": "girls",
+     "event": "TJ",
+     "place": 7,
+     "athlete": "Caroline Wirth",
+     "mark": "33-3"
+    },
+    {
+     "gender": "girls",
+     "event": "TJ",
+     "place": 11,
+     "athlete": "Kayla Maxwell",
+     "mark": "33-0.75"
+    },
+    {
+     "gender": "girls",
+     "event": "SP",
+     "place": 2,
+     "athlete": "Rachel Koonmen",
+     "mark": "37-1.25"
+    },
+    {
+     "gender": "girls",
+     "event": "SP",
+     "place": 5,
+     "athlete": "Melissa Torres",
+     "mark": "29-6.75"
+    },
+    {
+     "gender": "girls",
+     "event": "WT",
+     "place": 3,
+     "athlete": "Rachel Koonmen",
+     "mark": "33-9.75"
+    },
+    {
+     "gender": "girls",
+     "event": "WT",
+     "place": 4,
+     "athlete": "Melissa Torres",
+     "mark": "31-11.75"
+    },
+    {
+     "gender": "boys",
+     "event": "55m",
+     "place": 12,
+     "athlete": "Jarmel Glass",
+     "mark": "6.87"
+    },
+    {
+     "gender": "boys",
+     "event": "300m",
+     "place": 9,
+     "athlete": "Tim Lacagnina",
+     "mark": "38.49"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 4,
+     "athlete": "Mason Kozody",
+     "mark": "1:27.33"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 10,
+     "athlete": "Matt Abell",
+     "mark": "2:48.09"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 12,
+     "athlete": "Harrison Lutzer",
+     "mark": "2:51.18"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 4,
+     "athlete": "Sean Henretta",
+     "mark": "4:40.22"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 4,
+     "athlete": "Kaelen Ruder",
+     "mark": "10:17.69"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 15,
+     "athlete": "Jonathan Ackles",
+     "mark": "10:59.73"
+    },
+    {
+     "gender": "boys",
+     "event": "55mH",
+     "place": 7,
+     "athlete": "Tyler Ringleben",
+     "mark": "8.62"
+    },
+    {
+     "gender": "boys",
+     "event": "55mH",
+     "place": 12,
+     "athlete": "Matthias Schmidt",
+     "mark": "9.21"
+    },
+    {
+     "gender": "boys",
+     "event": "4x200",
+     "place": 4,
+     "athlete": "",
+     "mark": "1:36.08"
+    },
+    {
+     "gender": "boys",
+     "event": "4x400",
+     "place": 7,
+     "athlete": "",
+     "mark": "3:47.52"
+    },
+    {
+     "gender": "boys",
+     "event": "4x800",
+     "place": 3,
+     "athlete": "",
+     "mark": "8:46.46"
+    },
+    {
+     "gender": "boys",
+     "event": "HJ",
+     "place": 9,
+     "athlete": "Trevor Shuryn",
+     "mark": "5-4"
+    },
+    {
+     "gender": "boys",
+     "event": "LJ",
+     "place": 11,
+     "athlete": "Ryan Harman",
+     "mark": "19-11.5"
+    },
+    {
+     "gender": "boys",
+     "event": "TJ",
+     "place": 6,
+     "athlete": "Trevor Schneggenburger",
+     "mark": "40-8"
+    },
+    {
+     "gender": "boys",
+     "event": "PV",
+     "place": 2,
+     "athlete": "Ryan Harman",
+     "mark": "14-0"
+    },
+    {
+     "gender": "boys",
+     "event": "SP",
+     "place": 5,
+     "athlete": "Demar Osbourne",
+     "mark": "41-7.75"
+    },
+    {
+     "gender": "boys",
+     "event": "WT",
+     "place": 9,
+     "athlete": "Demar Osbourne",
+     "mark": "43-0.25"
+    }
+   ],
+   "meet": "Section V Class A/D Championships",
+   "date": "2019-02-15",
+   "venue": "RIT",
+   "source": "https://ny.milesplit.com/meets/336258-section-5-sectional-champs-2019/teams/11209"
+  },
+  {
+   "year": 2023,
+   "results": [
+    {
+     "gender": "girls",
+     "event": "55m",
+     "place": 12,
+     "athlete": "Kate Balland",
+     "mark": "7.77"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 11,
+     "athlete": "Lauren Murphy",
+     "mark": "45.58"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 14,
+     "athlete": "Kate Balland",
+     "mark": "46.05"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 6,
+     "athlete": "Emma Blodgett",
+     "mark": "1:44.27"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 9,
+     "athlete": "Hannah Aufderheide",
+     "mark": "1:46.06"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 11,
+     "athlete": "Abbey Moose",
+     "mark": "1:49.06"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 16,
+     "athlete": "Bridget Fish",
+     "mark": "1:53.93"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 17,
+     "athlete": "Morgan Donovan",
+     "mark": "1:55.71"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 8,
+     "athlete": "Helena Painting",
+     "mark": "3:19.72"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 13,
+     "athlete": "Bridget Fish",
+     "mark": "3:31.13"
+    },
+    {
+     "gender": "girls",
+     "event": "1500m",
+     "place": 1,
+     "athlete": "Zoe Marcus",
+     "mark": "4:49.74"
+    },
+    {
+     "gender": "girls",
+     "event": "1500m",
+     "place": 8,
+     "athlete": "Morgan Pospiech",
+     "mark": "5:20.89"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 2,
+     "athlete": "Ari Reback",
+     "mark": "10:18.93"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 7,
+     "athlete": "Hannah Casler",
+     "mark": "11:28.29"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 9,
+     "athlete": "Mattéa Malsegna",
+     "mark": "11:34.90"
+    },
+    {
+     "gender": "girls",
+     "event": "55mH",
+     "place": 5,
+     "athlete": "Jillian Ambler",
+     "mark": "9.32"
+    },
+    {
+     "gender": "girls",
+     "event": "4x200",
+     "place": 6,
+     "athlete": "",
+     "mark": "1:52.16"
+    },
+    {
+     "gender": "girls",
+     "event": "4x400",
+     "place": 5,
+     "athlete": "",
+     "mark": "4:38.34"
+    },
+    {
+     "gender": "girls",
+     "event": "4x800",
+     "place": 1,
+     "athlete": "",
+     "mark": "9:47.46"
+    },
+    {
+     "gender": "girls",
+     "event": "TJ",
+     "place": 5,
+     "athlete": "Lauren Murphy",
+     "mark": "35-6.5"
+    },
+    {
+     "gender": "girls",
+     "event": "SP",
+     "place": 9,
+     "athlete": "Laylhona Sims",
+     "mark": "29-3"
+    },
+    {
+     "gender": "boys",
+     "event": "300m",
+     "place": 15,
+     "athlete": "Connor Hashim",
+     "mark": "38.75"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 6,
+     "athlete": "Connor Hashim",
+     "mark": "1:28.38"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 4,
+     "athlete": "Colin Lesher",
+     "mark": "2:41.01"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 11,
+     "athlete": "Brady Kolson",
+     "mark": "2:45.89"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 16,
+     "athlete": "Jackson Hickey",
+     "mark": "2:56.00"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 4,
+     "athlete": "Mike Taranto",
+     "mark": "4:29.68"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 9,
+     "athlete": "Austin Bubel",
+     "mark": "4:46.63"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 1,
+     "athlete": "Jake Passalugo",
+     "mark": "9:24.85"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 6,
+     "athlete": "Owen Willard",
+     "mark": "9:56.44"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 11,
+     "athlete": "Tyler Fischer",
+     "mark": "10:19.80"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 12,
+     "athlete": "Landon Ruder",
+     "mark": "10:22.06"
+    },
+    {
+     "gender": "boys",
+     "event": "4x200",
+     "place": 11,
+     "athlete": "",
+     "mark": "1:41.60"
+    },
+    {
+     "gender": "boys",
+     "event": "4x800",
+     "place": 4,
+     "athlete": "",
+     "mark": "8:33.77"
+    },
+    {
+     "gender": "boys",
+     "event": "HJ",
+     "place": 11,
+     "athlete": "Wayne Spencer",
+     "mark": "5-6"
+    },
+    {
+     "gender": "boys",
+     "event": "LJ",
+     "place": 7,
+     "athlete": "Wayne Spencer",
+     "mark": "20-3.75"
+    },
+    {
+     "gender": "boys",
+     "event": "TJ",
+     "place": 10,
+     "athlete": "Wayne Spencer",
+     "mark": "39-0.25"
+    },
+    {
+     "gender": "boys",
+     "event": "TJ",
+     "place": 14,
+     "athlete": "Bailey Frank",
+     "mark": "37-2"
+    }
+   ],
+   "meet": "Section V Class A1 Championships",
+   "date": "2023-02-18",
+   "venue": "Nazareth",
+   "source": "https://ny.milesplit.com/meets/511217-section-5-sectional-champs-2023/teams/11209"
+  },
+  {
+   "year": 2024,
+   "results": [
+    {
+     "gender": "girls",
+     "event": "55m",
+     "place": 6,
+     "athlete": "MaKayla George",
+     "mark": "7.42"
+    },
+    {
+     "gender": "girls",
+     "event": "55m",
+     "place": 7,
+     "athlete": "Marykate Rudnicki",
+     "mark": "7.46"
+    },
+    {
+     "gender": "girls",
+     "event": "55m",
+     "place": 8,
+     "athlete": "Kate Balland",
+     "mark": "7.52"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 2,
+     "athlete": "Marykate Rudnicki",
+     "mark": "41.62"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 6,
+     "athlete": "Brenna Goss",
+     "mark": "43.02"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 5,
+     "athlete": "Anna Blodgett",
+     "mark": "1:44.40"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 14,
+     "athlete": "Emma Blodgett",
+     "mark": "1:53.28"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 5,
+     "athlete": "Helena Painting",
+     "mark": "3:14.72"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 9,
+     "athlete": "Madison Hansen",
+     "mark": "3:20.09"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 11,
+     "athlete": "Hannah Denis",
+     "mark": "3:21.51"
+    },
+    {
+     "gender": "girls",
+     "event": "1500m",
+     "place": 4,
+     "athlete": "Hannah Casler",
+     "mark": "5:04.78"
+    },
+    {
+     "gender": "girls",
+     "event": "1500m",
+     "place": 10,
+     "athlete": "Megan Denis",
+     "mark": "5:22.61"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 2,
+     "athlete": "Hannah Casler",
+     "mark": "10:37.61"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 7,
+     "athlete": "Ari Reback",
+     "mark": "11:09.47"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 15,
+     "athlete": "Bridget Fish",
+     "mark": "11:56.64"
+    },
+    {
+     "gender": "girls",
+     "event": "4x200",
+     "place": 6,
+     "athlete": "",
+     "mark": "1:51.20"
+    },
+    {
+     "gender": "girls",
+     "event": "4x400",
+     "place": 3,
+     "athlete": "",
+     "mark": "4:17.56"
+    },
+    {
+     "gender": "girls",
+     "event": "4x800",
+     "place": 3,
+     "athlete": "",
+     "mark": "10:11.72"
+    },
+    {
+     "gender": "girls",
+     "event": "TJ",
+     "place": 2,
+     "athlete": "Lauren Murphy",
+     "mark": "35-02.00"
+    },
+    {
+     "gender": "girls",
+     "event": "SP",
+     "place": 12,
+     "athlete": "Iliana Graves",
+     "mark": "29-00.50"
+    },
+    {
+     "gender": "girls",
+     "event": "RW",
+     "place": 6,
+     "athlete": "Mallory Keller",
+     "mark": "8:56.33"
+    },
+    {
+     "gender": "boys",
+     "event": "55m",
+     "place": 5,
+     "athlete": "Bailey Frank",
+     "mark": "6.69"
+    },
+    {
+     "gender": "boys",
+     "event": "300m",
+     "place": 9,
+     "athlete": "Frank D'Angelo",
+     "mark": "38.19"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 2,
+     "athlete": "Connor Hashim",
+     "mark": "1:24.37"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 7,
+     "athlete": "Colin Lesher",
+     "mark": "1:26.87"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 9,
+     "athlete": "Jackson Hickey",
+     "mark": "2:42.40"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 2,
+     "athlete": "Austin Bubel",
+     "mark": "4:27.98"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 7,
+     "athlete": "Tyler Fischer",
+     "mark": "4:34.18"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 12,
+     "athlete": "Andrew Green",
+     "mark": "4:55.30"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 1,
+     "athlete": "Jake Passalugo",
+     "mark": "9:36.23"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 4,
+     "athlete": "Henry Hill",
+     "mark": "9:59.14"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 6,
+     "athlete": "Andrew Green",
+     "mark": "10:02.66"
+    },
+    {
+     "gender": "boys",
+     "event": "4x200",
+     "place": null,
+     "athlete": "",
+     "mark": "DQ"
+    },
+    {
+     "gender": "boys",
+     "event": "4x400",
+     "place": 5,
+     "athlete": "",
+     "mark": "3:38.67"
+    },
+    {
+     "gender": "boys",
+     "event": "4x800",
+     "place": 5,
+     "athlete": "",
+     "mark": "8:32.38"
+    },
+    {
+     "gender": "boys",
+     "event": "HJ",
+     "place": 6,
+     "athlete": "Ryan Mathis",
+     "mark": "5-10.00"
+    },
+    {
+     "gender": "boys",
+     "event": "HJ",
+     "place": 10,
+     "athlete": "Quintarrius Reed",
+     "mark": "5-06.00"
+    },
+    {
+     "gender": "boys",
+     "event": "PV",
+     "place": 5,
+     "athlete": "Jacob Kolson",
+     "mark": "10-06.00"
+    },
+    {
+     "gender": "boys",
+     "event": "PV",
+     "place": 9,
+     "athlete": "Daniel Oyesiku",
+     "mark": "9-06.00"
+    },
+    {
+     "gender": "boys",
+     "event": "TJ",
+     "place": 12,
+     "athlete": "Quintarrius Reed",
+     "mark": "39-08.00"
+    },
+    {
+     "gender": "boys",
+     "event": "SP",
+     "place": 11,
+     "athlete": "Tayvon Peterson",
+     "mark": "37-07.25"
+    }
+   ],
+   "meet": "Section V Class A1 Championships",
+   "date": "2024-02-17",
+   "venue": "Nazareth",
+   "source": "https://ny.milesplit.com/meets/583746-section-5-sectional-champs-2024/results/997190?type=raw",
+   "team": {
+    "girls": {
+     "place": 5,
+     "points": 48.0,
+     "winner": "Rush-Henrietta",
+     "winner_points": 82.0
+    },
+    "boys": {
+     "place": 5,
+     "points": 40.0,
+     "winner": "McQuaid Jesuit",
+     "winner_points": 101.0
+    }
+   }
+  },
+  {
+   "year": 2025,
+   "results": [
+    {
+     "gender": "girls",
+     "event": "55m",
+     "place": 3,
+     "athlete": "MaKayla George",
+     "mark": "7.39"
+    },
+    {
+     "gender": "girls",
+     "event": "55m",
+     "place": 10,
+     "athlete": "Brenna Goss",
+     "mark": "7.56"
+    },
+    {
+     "gender": "girls",
+     "event": "55m",
+     "place": 13,
+     "athlete": "Gabby Rause",
+     "mark": "7.62"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 5,
+     "athlete": "Brenna Goss",
+     "mark": "42.76"
+    },
+    {
+     "gender": "girls",
+     "event": "300m",
+     "place": 8,
+     "athlete": "Courtney Leary",
+     "mark": "44.59"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": 2,
+     "athlete": "Anna Blodgett",
+     "mark": "1:40.00"
+    },
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 10,
+     "athlete": "Hannah Denis",
+     "mark": "3:26.03"
+    },
+    {
+     "gender": "girls",
+     "event": "1500m",
+     "place": 2,
+     "athlete": "Helena Painting",
+     "mark": "5:00.54"
+    },
+    {
+     "gender": "girls",
+     "event": "1500m",
+     "place": 3,
+     "athlete": "Katie Poligone",
+     "mark": "5:06.62"
+    },
+    {
+     "gender": "girls",
+     "event": "1500m",
+     "place": 11,
+     "athlete": "Aine Finucane",
+     "mark": "5:35.51"
+    },
+    {
+     "gender": "girls",
+     "event": "1500m",
+     "place": 12,
+     "athlete": "Erica Willard",
+     "mark": "5:39.01"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 7,
+     "athlete": "Megan Denis",
+     "mark": "11:23.76"
+    },
+    {
+     "gender": "girls",
+     "event": "55mH",
+     "place": 5,
+     "athlete": "Ty'Nique Edmunds",
+     "mark": "9.41"
+    },
+    {
+     "gender": "girls",
+     "event": "4x200",
+     "place": 2,
+     "athlete": "",
+     "mark": "1:46.83"
+    },
+    {
+     "gender": "girls",
+     "event": "4x400",
+     "place": 3,
+     "athlete": "",
+     "mark": "4:16.71"
+    },
+    {
+     "gender": "girls",
+     "event": "4x800",
+     "place": 3,
+     "athlete": "",
+     "mark": "10:15.29"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 4,
+     "athlete": "Etta Cass",
+     "mark": "5-01.00"
+    },
+    {
+     "gender": "girls",
+     "event": "PV",
+     "place": 2,
+     "athlete": "Lilly Nelkin",
+     "mark": "10-00.00"
+    },
+    {
+     "gender": "girls",
+     "event": "LJ",
+     "place": 8,
+     "athlete": "Lauren Murphy",
+     "mark": "16-05.50"
+    },
+    {
+     "gender": "girls",
+     "event": "LJ",
+     "place": 12,
+     "athlete": "Ty'Nique Edmunds",
+     "mark": "15-09.00"
+    },
+    {
+     "gender": "girls",
+     "event": "TJ",
+     "place": 2,
+     "athlete": "Lauren Murphy",
+     "mark": "37-01.25"
+    },
+    {
+     "gender": "girls",
+     "event": "TJ",
+     "place": 4,
+     "athlete": "Gabby Rause",
+     "mark": "34-09.75"
+    },
+    {
+     "gender": "girls",
+     "event": "TJ",
+     "place": 11,
+     "athlete": "Maryclaire Wirth",
+     "mark": "31-08.75"
+    },
+    {
+     "gender": "girls",
+     "event": "SP",
+     "place": 4,
+     "athlete": "Iliana Graves",
+     "mark": "31-06.50"
+    },
+    {
+     "gender": "girls",
+     "event": "SP",
+     "place": 8,
+     "athlete": "Giuliana Rosario",
+     "mark": "29-03.00"
+    },
+    {
+     "gender": "girls",
+     "event": "WT",
+     "place": 9,
+     "athlete": "Iliana Graves",
+     "mark": "38-00.25"
+    },
+    {
+     "gender": "girls",
+     "event": "WT",
+     "place": 15,
+     "athlete": "Giuliana Rosario",
+     "mark": "31-10.75"
+    },
+    {
+     "gender": "girls",
+     "event": "RW",
+     "place": 3,
+     "athlete": "Mallory Malsegna",
+     "mark": "8:15.88"
+    },
+    {
+     "gender": "boys",
+     "event": "55m",
+     "place": 9,
+     "athlete": "Bailey Frank",
+     "mark": "6.76"
+    },
+    {
+     "gender": "boys",
+     "event": "300m",
+     "place": 4,
+     "athlete": "Frank D'Angelo",
+     "mark": "36.68"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 10,
+     "athlete": "David Blodgett",
+     "mark": "1:31.29"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 2,
+     "athlete": "Jackson Hickey",
+     "mark": "2:34.38"
+    },
+    {
+     "gender": "boys",
+     "event": "1600m",
+     "place": 2,
+     "athlete": "Andrew Green",
+     "mark": "4:34.96"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 5,
+     "athlete": "Henry Hill",
+     "mark": "9:55.58"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 9,
+     "athlete": "Jacob Pacer",
+     "mark": "10:23.43"
+    },
+    {
+     "gender": "boys",
+     "event": "4x200",
+     "place": 2,
+     "athlete": "",
+     "mark": "1:34.67"
+    },
+    {
+     "gender": "boys",
+     "event": "4x800",
+     "place": 5,
+     "athlete": "",
+     "mark": "8:47.19"
+    },
+    {
+     "gender": "boys",
+     "event": "HJ",
+     "place": 4,
+     "athlete": "Ryan Mathis",
+     "mark": "5-10.00"
+    },
+    {
+     "gender": "boys",
+     "event": "PV",
+     "place": 3,
+     "athlete": "Jacob Kolson",
+     "mark": "12-00.00"
+    },
+    {
+     "gender": "boys",
+     "event": "PV",
+     "place": 4,
+     "athlete": "Daniel Oyesiku",
+     "mark": "12-00.00"
+    },
+    {
+     "gender": "boys",
+     "event": "PV",
+     "place": 11,
+     "athlete": "Sam Shah",
+     "mark": "10-00.00"
+    },
+    {
+     "gender": "boys",
+     "event": "LJ",
+     "place": 6,
+     "athlete": "Brayden Schlicker",
+     "mark": "20-02.75"
+    },
+    {
+     "gender": "boys",
+     "event": "SP",
+     "place": 7,
+     "athlete": "Isaiah Collins",
+     "mark": "42-03.50"
+    },
+    {
+     "gender": "boys",
+     "event": "SP",
+     "place": 12,
+     "athlete": "Joseph Roselli",
+     "mark": "39-10.00"
+    },
+    {
+     "gender": "boys",
+     "event": "SP",
+     "place": 15,
+     "athlete": "Tayvon Peterson",
+     "mark": "37-01.00"
+    },
+    {
+     "gender": "boys",
+     "event": "WT",
+     "place": 5,
+     "athlete": "Joseph Roselli",
+     "mark": "53-00.75"
+    }
+   ],
+   "meet": "Section V Class A1 Championships",
+   "date": "2025-02-19",
+   "venue": "Nazareth",
+   "source": "https://ny.milesplit.com/meets/650313-section-5-sectional-champs-2025/results/1116148/raw",
+   "team": {
+    "girls": {
+     "place": 2,
+     "points": 86.0,
+     "winner": "Victor Central",
+     "winner_points": 95.0
+    },
+    "boys": {
+     "place": 4,
+     "points": 49.0,
+     "winner": "Webster Thomas",
+     "winner_points": 90.0
+    }
+   }
+  }
+ ]
+}

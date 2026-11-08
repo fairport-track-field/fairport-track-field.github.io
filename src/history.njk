@@ -1,17 +1,144 @@
 ---
 layout: base.njk
-description: "Fairport Red Raiders track and field results at divisional, county, sectional and state championships."
+description: "Fairport Red Raiders indoor track and field history at the Section V sectional championships: team finishes, sectional champions and every scoring performance."
 title: Championship history
 permalink: /history/
 ---
+{% set S = sectionalStats %}
 <div class="wrap">
   <h1 class="page-title">Championship history</h1>
-  <p class="page-lede">Team finishes and individual champions at divisionals, counties, sectionals, state qualifiers and states.</p>
+  <p class="page-lede">How Fairport has done at the Section V indoor sectional championships, season by season.</p>
 
-  {% set seasons = championships.results | sort(true, false, "year") | groupBy("year") %}
-  {% for season in seasons %}
-  <section class="season" aria-labelledby="season-{{ season.name }}">
-    <h2 class="section-title" id="season-{{ season.name }}">{{ season.name | seasonLabel }}</h2>
+  <section class="sect-summary" aria-labelledby="sect-title">
+    <h2 class="section-title" id="sect-title">Section V sectionals</h2>
+
+    <dl class="stat-row">
+      <div><dt>Sectional titles</dt><dd>{{ S.totals.titles }}</dd></div>
+      <div><dt>Top-6 scoring finishes</dt><dd>{{ S.totals.scorers }}</dd></div>
+      <div><dt>Seasons on file</dt><dd>{{ S.totals.seasons }}</dd></div>
+    </dl>
+
+    <div class="table-scroll">
+    <table class="history sect-table">
+      <thead>
+        <tr>
+          <th scope="col">Season</th>
+          <th scope="col">Meet</th>
+          <th scope="col">Girls team</th>
+          <th scope="col">Boys team</th>
+          <th scope="col">Titles</th>
+          <th scope="col">Scorers</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for s in S.seasons %}
+        <tr>
+          <th scope="row"><a href="#season-{{ s.year }}">{{ s.year | seasonLabel }}</a></th>
+          <td>{{ s.meet }}</td>
+          {% for g in ["girls", "boys"] %}
+          {% set t = s.byGender[g].team %}
+          <td class="history__place">{% if t %}{{ t.place | ordinal }}, {{ t.points | pts }} pts{% else %}<span class="muted">Not on file</span>{% endif %}</td>
+          {% endfor %}
+          <td class="num">{{ s.byGender.girls.champions.length + s.byGender.boys.champions.length }}</td>
+          <td class="num">{{ s.byGender.girls.scorers.length + s.byGender.boys.scorers.length }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    </div>
+    <p class="history__note">Team places are from the official team scores. "Not on file" means the team scores for that season weren't available online. Scorers are top-6 finishes (scored 10-8-6-4-2-1).</p>
+  </section>
+
+  <section aria-labelledby="champs-title">
+    <h2 class="section-title" id="champs-title">Fairport sectional champions</h2>
+    <div class="table-scroll">
+    <table class="history champs-table">
+      <thead><tr><th scope="col">Season</th><th scope="col">Event</th><th scope="col">Champion</th><th scope="col">Mark</th></tr></thead>
+      <tbody>
+        {% for c in S.champions %}
+        <tr>
+          <td>{{ c.year | seasonLabel }}</td>
+          <td>{{ c.gender | capitalize }} {{ c.label }}</td>
+          <th scope="row">{{ c.who }}</th>
+          <td class="num">{{ c.mark }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <div class="sect-leaders">
+    {% if S.multiChampions.length %}
+    <section aria-labelledby="multi-title">
+      <h2 class="section-title" id="multi-title">Multiple-time champions</h2>
+      <ul class="leader-list">
+        {% for a in S.multiChampions %}
+        <li><strong>{{ a.athlete }}</strong> <span class="leader-list__count">{{ a.titles.length }} titles</span><span class="leader-list__detail">{{ a.titles | join(", ") }}</span></li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+    <section aria-labelledby="event-title">
+      <h2 class="section-title" id="event-title">Titles by event</h2>
+      <table class="history event-titles">
+        <thead><tr><th scope="col">Event</th><th scope="col">Girls</th><th scope="col">Boys</th></tr></thead>
+        <tbody>
+          {% for e in S.eventTitles %}
+          <tr><th scope="row">{{ e.label }}</th><td class="num">{{ e.girls or "–" }}</td><td class="num">{{ e.boys or "–" }}</td></tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </section>
+  </div>
+
+  <section aria-labelledby="seasons-title">
+    <h2 class="section-title" id="seasons-title">Every season</h2>
+    {% for s in S.seasons %}
+    <details class="season-detail" id="season-{{ s.year }}">
+      <summary>
+        <span class="season-detail__year">{{ s.year | seasonLabel }}</span>
+        <span class="season-detail__meta">{{ s.meet }}, {{ s.venue }}</span>
+      </summary>
+      <div class="season-detail__body">
+        {% for g in ["girls", "boys"] %}
+        {% set G = s.byGender[g] %}
+        <div class="season-detail__col">
+          <h3 class="toplist__title">{{ g | capitalize }}{% if G.team %}: {{ G.team.place | ordinal }} place, {{ G.team.points | pts }} points <span class="muted">(won by {{ G.team.winner }}, {{ G.team.winner_points | pts }})</span>{% endif %}</h3>
+          <table class="toplist__table season-results">
+            <thead class="visually-hidden"><tr><th>Place</th><th>Event</th><th>Athlete</th><th>Mark</th></tr></thead>
+            <tbody>
+            {% for r in G.results %}
+              <tr{% if r.place == 1 %} class="is-champ"{% elif r.points %} class="is-scorer"{% endif %}>
+                <td class="toplist__rank">{{ r.place if r.place else "–" }}</td>
+                <td>{{ r.label }}</td>
+                <td class="toplist__who">{{ r.athlete or "Relay" }}</td>
+                <td class="toplist__mark">{{ r.mark }}</td>
+              </tr>
+            {% endfor %}
+            </tbody>
+          </table>
+        </div>
+        {% endfor %}
+      </div>
+      <p class="history__note">Source: <a href="{{ s.source }}">MileSplit results</a>. Highlighted rows scored points for the team.</p>
+    </details>
+    {% endfor %}
+  </section>
+
+  {% if S.missing.length %}
+  <div class="empty-state coverage">
+    <p><strong>Seasons still to add:</strong> {% for y in S.missing %}{{ y | seasonLabel }}{% if not loop.last %}, {% endif %}{% endfor %}. (There was no 2020–21 sectional meet.)</p>
+    <p>Results for those years weren't available online. To add one, add its results to <code>src/_data/sectionals.json</code>, or send the results file and they'll be added.</p>
+  </div>
+  {% endif %}
+
+  {% set others = championships.results | sort(true, false, "year") | groupBy("year") %}
+  {% if others.length %}
+  <section aria-labelledby="other-title">
+    <h2 class="section-title" id="other-title">Other championship meets</h2>
+    {% for season in others %}
+    <h3 class="toplist__title">{{ season.name | seasonLabel }}</h3>
     <div class="table-scroll">
     <table class="history">
       <thead><tr><th scope="col">Meet</th><th scope="col">Girls</th><th scope="col">Boys</th><th scope="col">Champions</th></tr></thead>
@@ -34,11 +161,7 @@ permalink: /history/
       </tbody>
     </table>
     </div>
+    {% endfor %}
   </section>
-  {% else %}
-  <div class="empty-state">
-    <p><strong>Championship results haven't been added yet.</strong></p>
-    <p>Add them to <code>src/_data/championships.json</code> and they'll appear here, grouped by season.</p>
-  </div>
-  {% endfor %}
+  {% endif %}
 </div>
