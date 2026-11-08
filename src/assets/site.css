@@ -311,6 +311,8 @@ code { font-size: .9em; background: var(--white); padding: .05rem .3rem; }
 .season-results tr.is-scorer td { background: var(--ice); }
 .season-results tr.is-champ td { background: var(--ice); font-weight: 700; }
 .season-results tr.is-champ td:first-child { box-shadow: inset 3px 0 0 var(--red); }
+.is-team-title { color: var(--red-dark); }
+.team-titles { margin: 1rem 0 .5rem; padding: .75rem 1rem; background: var(--ice); box-shadow: inset 4px 0 0 var(--red); max-width: 48rem; }
 .coverage { margin: 2rem 0 3rem; max-width: 48rem; }
 
 /* Posts */
