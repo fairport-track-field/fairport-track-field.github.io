@@ -4827,7 +4827,7 @@
       "meet": "Section V Class A Championships",
       "date": "2009-02-14",
       "venue": "Hobart & William Smith Colleges",
-      "source": "Official Section V results file (supplied by the team; boys events only)",
+      "source": "Official Section V results files (supplied by the team)",
       "results": [
         {
           "gender": "boys",
@@ -4884,6 +4884,188 @@
           "place": 4,
           "athlete": "Adam Gabrielli",
           "mark": "42-08.50"
+        },
+        {
+          "gender": "girls",
+          "event": "55m",
+          "place": 4,
+          "athlete": "Lauren Burke",
+          "mark": "7.50"
+        },
+        {
+          "gender": "girls",
+          "event": "300m",
+          "place": 2,
+          "athlete": "Rosie Roessel",
+          "mark": "41.57"
+        },
+        {
+          "gender": "girls",
+          "event": "300m",
+          "place": 3,
+          "athlete": "Angela Ryck",
+          "mark": "42.65"
+        },
+        {
+          "gender": "girls",
+          "event": "600m",
+          "place": 2,
+          "athlete": "Lauren Burke",
+          "mark": "1:38.05"
+        },
+        {
+          "gender": "girls",
+          "event": "600m",
+          "place": 6,
+          "athlete": "Michelle Barnum",
+          "mark": "1:41.18"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 2,
+          "athlete": "Rosie Roessel",
+          "mark": "3:01.13"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 6,
+          "athlete": "Jennifer Springer",
+          "mark": "3:15.81"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 13,
+          "athlete": "Mary O'Henir",
+          "mark": "3:27.89"
+        },
+        {
+          "gender": "girls",
+          "event": "1500m",
+          "place": 2,
+          "athlete": "Jennifer Spitzer",
+          "mark": "4:55.44"
+        },
+        {
+          "gender": "girls",
+          "event": "1500m",
+          "place": 10,
+          "athlete": "Jordyn Naylon",
+          "mark": "5:17.19"
+        },
+        {
+          "gender": "girls",
+          "event": "1500m",
+          "place": 16,
+          "athlete": "Ashley Roche",
+          "mark": "5:48.20"
+        },
+        {
+          "gender": "girls",
+          "event": "3000m",
+          "place": 3,
+          "athlete": "Jordyn Naylon",
+          "mark": "11:02.88"
+        },
+        {
+          "gender": "girls",
+          "event": "3000m",
+          "place": 6,
+          "athlete": "Ashton Hughes",
+          "mark": "11:08.53"
+        },
+        {
+          "gender": "girls",
+          "event": "55mH",
+          "place": 5,
+          "athlete": "Diana Weber",
+          "mark": "9.35"
+        },
+        {
+          "gender": "girls",
+          "event": "55mH",
+          "place": null,
+          "athlete": "Emily Renna",
+          "mark": "DQ"
+        },
+        {
+          "gender": "girls",
+          "event": "4x200",
+          "place": 3,
+          "athlete": "",
+          "mark": "1:52.33"
+        },
+        {
+          "gender": "girls",
+          "event": "4x400",
+          "place": 2,
+          "athlete": "",
+          "mark": "4:12.88"
+        },
+        {
+          "gender": "girls",
+          "event": "4x800",
+          "place": 2,
+          "athlete": "",
+          "mark": "10:11.45"
+        },
+        {
+          "gender": "girls",
+          "event": "HJ",
+          "place": 3,
+          "athlete": "Lauren Burke",
+          "mark": "5-01.00"
+        },
+        {
+          "gender": "girls",
+          "event": "PV",
+          "place": 7,
+          "athlete": "Emily Valle",
+          "mark": "7-06.00"
+        },
+        {
+          "gender": "girls",
+          "event": "LJ",
+          "place": 3,
+          "athlete": "Diana Weber",
+          "mark": "16-03.25"
+        },
+        {
+          "gender": "girls",
+          "event": "LJ",
+          "place": 4,
+          "athlete": "Emily Renna",
+          "mark": "15-11.25"
+        },
+        {
+          "gender": "girls",
+          "event": "LJ",
+          "place": 13,
+          "athlete": "Julia Sanger",
+          "mark": "14-03.00"
+        },
+        {
+          "gender": "girls",
+          "event": "TJ",
+          "place": 4,
+          "athlete": "Diana Weber",
+          "mark": "34-02.50"
+        },
+        {
+          "gender": "girls",
+          "event": "TJ",
+          "place": 11,
+          "athlete": "Emily Renna",
+          "mark": "30-05.75"
+        },
+        {
+          "gender": "girls",
+          "event": "RW",
+          "place": 16,
+          "athlete": "Ashley Roche",
+          "mark": "9:03.03"
         }
       ],
       "team": {
@@ -4892,6 +5074,162 @@
           "points": 26.0,
           "winner": "Edison Tech",
           "winner_points": 110.5
+        },
+        "girls": {
+          "place": 1,
+          "points": 95.0,
+          "winner": "Fairport",
+          "winner_points": 95.0
+        }
+      }
+    },
+    {
+      "year": 2008,
+      "meet": "Section V Class A Championships",
+      "date": "2008-02-13",
+      "venue": "RIT Gordon Field House",
+      "source": "Official Section V results file (supplied by the team; boys events only)",
+      "results": [
+        {
+          "gender": "boys",
+          "event": "55m",
+          "place": null,
+          "athlete": "Shane Tuner",
+          "mark": "FS"
+        },
+        {
+          "gender": "boys",
+          "event": "300m",
+          "place": 5,
+          "athlete": "Alex Barrette",
+          "mark": "37.63"
+        },
+        {
+          "gender": "boys",
+          "event": "300m",
+          "place": 7,
+          "athlete": "Hector Perez",
+          "mark": "38.63"
+        },
+        {
+          "gender": "boys",
+          "event": "600m",
+          "place": 8,
+          "athlete": "Teddy Taggert",
+          "mark": "1:29.91"
+        },
+        {
+          "gender": "boys",
+          "event": "600m",
+          "place": 9,
+          "athlete": "Jonathan Large",
+          "mark": "1:30.05"
+        },
+        {
+          "gender": "boys",
+          "event": "600m",
+          "place": 10,
+          "athlete": "Justin Green",
+          "mark": "1:30.38"
+        },
+        {
+          "gender": "boys",
+          "event": "1000m",
+          "place": 4,
+          "athlete": "Andrew Rice",
+          "mark": "2:43.09"
+        },
+        {
+          "gender": "boys",
+          "event": "1600m",
+          "place": 3,
+          "athlete": "Pat DuPont",
+          "mark": "4:38.01"
+        },
+        {
+          "gender": "boys",
+          "event": "1600m",
+          "place": 15,
+          "athlete": "Andrew Rice",
+          "mark": "5:19.98"
+        },
+        {
+          "gender": "boys",
+          "event": "3200m",
+          "place": 1,
+          "athlete": "Pat DuPont",
+          "mark": "9:52.16"
+        },
+        {
+          "gender": "boys",
+          "event": "55mH",
+          "place": 8,
+          "athlete": "Jeff Shaffer",
+          "mark": "8.32"
+        },
+        {
+          "gender": "boys",
+          "event": "4x200",
+          "place": 4,
+          "athlete": "",
+          "mark": "1:38.96"
+        },
+        {
+          "gender": "boys",
+          "event": "4x400",
+          "place": 1,
+          "athlete": "",
+          "mark": "3:35.92"
+        },
+        {
+          "gender": "boys",
+          "event": "4x800",
+          "place": 2,
+          "athlete": "",
+          "mark": "8:38.15"
+        },
+        {
+          "gender": "boys",
+          "event": "HJ",
+          "place": 7,
+          "athlete": "Jeff Shaffer",
+          "mark": "5-10.00"
+        },
+        {
+          "gender": "boys",
+          "event": "HJ",
+          "place": 13,
+          "athlete": "Ryan Dapprich",
+          "mark": "5-08.00"
+        },
+        {
+          "gender": "boys",
+          "event": "LJ",
+          "place": 2,
+          "athlete": "Forrest Viola",
+          "mark": "21-02.00"
+        },
+        {
+          "gender": "boys",
+          "event": "LJ",
+          "place": 16,
+          "athlete": "Ulyssey Miles",
+          "mark": "19-03.00"
+        },
+        {
+          "gender": "boys",
+          "event": "SP",
+          "place": 6,
+          "athlete": "Adam Gabrielli",
+          "mark": "40-00.00"
+        }
+      ],
+      "team": {
+        "boys": {
+          "place": 4,
+          "points": 53.0,
+          "winner": "Edison Tech",
+          "winner_points": 72.0
         }
       }
     },
