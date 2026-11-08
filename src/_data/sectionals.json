@@ -2539,6 +2539,10 @@
   },
   {
    "year": 2019,
+   "meet": "Section V Class A Championships",
+   "date": "2019-02-15",
+   "venue": "RIT",
+   "source": "Official Section V results file (supplied by the team)",
    "results": [
     {
      "gender": "girls",
@@ -2553,6 +2557,13 @@
      "place": 4,
      "athlete": "Lillian Hicks",
      "mark": "43.39"
+    },
+    {
+     "gender": "girls",
+     "event": "600m",
+     "place": null,
+     "athlete": "Josie Keenan",
+     "mark": "DQ"
     },
     {
      "gender": "girls",
@@ -2584,6 +2595,13 @@
     },
     {
      "gender": "girls",
+     "event": "3000m",
+     "place": null,
+     "athlete": "Jessica Suiter",
+     "mark": "DQ"
+    },
+    {
+     "gender": "girls",
      "event": "4x200",
      "place": 8,
      "athlete": "",
@@ -2594,56 +2612,63 @@
      "event": "HJ",
      "place": 8,
      "athlete": "Chivonna Reed",
-     "mark": "4-6"
+     "mark": "4-06.00"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": null,
+     "athlete": "Paige Harman",
+     "mark": "NH"
     },
     {
      "gender": "girls",
      "event": "LJ",
      "place": 5,
      "athlete": "Josie Keenan",
-     "mark": "16-3"
+     "mark": "16-03.00"
     },
     {
      "gender": "girls",
      "event": "TJ",
      "place": 6,
      "athlete": "Josie Keenan",
-     "mark": "34-9"
+     "mark": "34-09.00"
     },
     {
      "gender": "girls",
      "event": "TJ",
      "place": 7,
      "athlete": "Caroline Wirth",
-     "mark": "33-3"
+     "mark": "33-03.00"
     },
     {
      "gender": "girls",
      "event": "TJ",
      "place": 11,
      "athlete": "Kayla Maxwell",
-     "mark": "33-0.75"
+     "mark": "33-00.75"
     },
     {
      "gender": "girls",
      "event": "SP",
      "place": 2,
      "athlete": "Rachel Koonmen",
-     "mark": "37-1.25"
+     "mark": "37-01.25"
     },
     {
      "gender": "girls",
      "event": "SP",
      "place": 5,
      "athlete": "Melissa Torres",
-     "mark": "29-6.75"
+     "mark": "29-06.75"
     },
     {
      "gender": "girls",
      "event": "WT",
      "place": 3,
      "athlete": "Rachel Koonmen",
-     "mark": "33-9.75"
+     "mark": "33-09.75"
     },
     {
      "gender": "girls",
@@ -2713,13 +2738,13 @@
      "event": "55mH",
      "place": 7,
      "athlete": "Tyler Ringleben",
-     "mark": "8.62"
+     "mark": "8.620"
     },
     {
      "gender": "boys",
      "event": "55mH",
      "place": 12,
-     "athlete": "Matthias Schmidt",
+     "athlete": "Matthais Schmidt",
      "mark": "9.21"
     },
     {
@@ -2748,48 +2773,58 @@
      "event": "HJ",
      "place": 9,
      "athlete": "Trevor Shuryn",
-     "mark": "5-4"
-    },
-    {
-     "gender": "boys",
-     "event": "LJ",
-     "place": 11,
-     "athlete": "Ryan Harman",
-     "mark": "19-11.5"
-    },
-    {
-     "gender": "boys",
-     "event": "TJ",
-     "place": 6,
-     "athlete": "Trevor Schneggenburger",
-     "mark": "40-8"
+     "mark": "5-04.00"
     },
     {
      "gender": "boys",
      "event": "PV",
      "place": 2,
      "athlete": "Ryan Harman",
-     "mark": "14-0"
+     "mark": "14-00.00"
+    },
+    {
+     "gender": "boys",
+     "event": "LJ",
+     "place": 11,
+     "athlete": "Ryan Harman",
+     "mark": "19-11.50"
+    },
+    {
+     "gender": "boys",
+     "event": "TJ",
+     "place": 6,
+     "athlete": "Trevor Schneggenburger",
+     "mark": "40-08.00"
     },
     {
      "gender": "boys",
      "event": "SP",
      "place": 5,
      "athlete": "Demar Osbourne",
-     "mark": "41-7.75"
+     "mark": "41-07.75"
     },
     {
      "gender": "boys",
      "event": "WT",
      "place": 9,
      "athlete": "Demar Osbourne",
-     "mark": "43-0.25"
+     "mark": "43-00.25"
     }
    ],
-   "meet": "Section V Class A/D Championships",
-   "date": "2019-02-15",
-   "venue": "RIT",
-   "source": "https://ny.milesplit.com/meets/336258-section-5-sectional-champs-2019/teams/11209"
+   "team": {
+    "girls": {
+     "place": 7,
+     "points": 35.0,
+     "winner": "Rush-Henrietta",
+     "winner_points": 166.0
+    },
+    "boys": {
+     "place": 8,
+     "points": 33.0,
+     "winner": "Rush-Henrietta",
+     "winner_points": 91.0
+    }
+   }
   },
   {
    "year": 2023,
