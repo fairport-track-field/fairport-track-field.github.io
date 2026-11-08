@@ -2827,6 +2827,211 @@
    }
   },
   {
+   "year": 2020,
+   "meet": "Section V Class A Championships",
+   "date": "2020-02-21",
+   "venue": "RIT",
+   "source": "Official Section V results file (supplied by the team)",
+   "results": [
+    {
+     "gender": "girls",
+     "event": "1000m",
+     "place": 1,
+     "athlete": "Zoe Marcus",
+     "mark": "3:06.32"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 4,
+     "athlete": "Jessica Suiter",
+     "mark": "10:49.62"
+    },
+    {
+     "gender": "girls",
+     "event": "3000m",
+     "place": 7,
+     "athlete": "Ari Reback",
+     "mark": "11:38.77"
+    },
+    {
+     "gender": "girls",
+     "event": "4x400",
+     "place": 11,
+     "athlete": "",
+     "mark": "5:04.95"
+    },
+    {
+     "gender": "girls",
+     "event": "4x800",
+     "place": 2,
+     "athlete": "",
+     "mark": "10:17.76"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 10,
+     "athlete": "Natalie Peacock",
+     "mark": "4-06.00"
+    },
+    {
+     "gender": "girls",
+     "event": "HJ",
+     "place": 10,
+     "athlete": "Alana Lucey",
+     "mark": "4-06.00"
+    },
+    {
+     "gender": "girls",
+     "event": "SP",
+     "place": 1,
+     "athlete": "Rachel Koonmen",
+     "mark": "40-07.50"
+    },
+    {
+     "gender": "girls",
+     "event": "SP",
+     "place": 8,
+     "athlete": "Melissa Torres",
+     "mark": "29-02.50"
+    },
+    {
+     "gender": "girls",
+     "event": "WT",
+     "place": 5,
+     "athlete": "Rachel Koonmen",
+     "mark": "38-01.50"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 13,
+     "athlete": "Nate Wigent",
+     "mark": "1:32.42"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 14,
+     "athlete": "Jack Kelly",
+     "mark": "1:33.03"
+    },
+    {
+     "gender": "boys",
+     "event": "600m",
+     "place": 15,
+     "athlete": "Jack Salzman",
+     "mark": "1:36.26"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 6,
+     "athlete": "Nick Markle",
+     "mark": "2:48.49"
+    },
+    {
+     "gender": "boys",
+     "event": "1000m",
+     "place": 8,
+     "athlete": "Harrison Lutzer",
+     "mark": "2:48.90"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 5,
+     "athlete": "Kaelen Ruder",
+     "mark": "10:07.79"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 8,
+     "athlete": "Nick Ferri",
+     "mark": "10:21.97"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": 10,
+     "athlete": "Ben Schwab",
+     "mark": "10:34.03"
+    },
+    {
+     "gender": "boys",
+     "event": "3200m",
+     "place": null,
+     "athlete": "John Farrell",
+     "mark": "DQ"
+    },
+    {
+     "gender": "boys",
+     "event": "4x200",
+     "place": 9,
+     "athlete": "",
+     "mark": "1:40.93"
+    },
+    {
+     "gender": "boys",
+     "event": "4x400",
+     "place": null,
+     "athlete": "",
+     "mark": "DQ"
+    },
+    {
+     "gender": "boys",
+     "event": "4x800",
+     "place": 5,
+     "athlete": "",
+     "mark": "9:02.44"
+    },
+    {
+     "gender": "boys",
+     "event": "HJ",
+     "place": 1,
+     "athlete": "Mason Yusko",
+     "mark": "6-06.00"
+    },
+    {
+     "gender": "boys",
+     "event": "SP",
+     "place": 3,
+     "athlete": "Demar Osbourne",
+     "mark": "46-03.50"
+    },
+    {
+     "gender": "boys",
+     "event": "SP",
+     "place": 10,
+     "athlete": "O'Neil Charles",
+     "mark": "37-08.50"
+    },
+    {
+     "gender": "boys",
+     "event": "WT",
+     "place": 2,
+     "athlete": "Demar Osbourne",
+     "mark": "56-10.25"
+    }
+   ],
+   "team": {
+    "girls": {
+     "place": 9,
+     "points": 34.0,
+     "winner": "Rush-Henrietta",
+     "winner_points": 75.0
+    },
+    "boys": {
+     "place": 8,
+     "points": 29.0,
+     "winner": "McQuaid Jesuit",
+     "winner_points": 93.5
+    }
+   }
+  },
+  {
    "year": 2022,
    "meet": "Section V Class A1 Championships",
    "date": "2022-02-18",
@@ -3604,6 +3809,10 @@
   },
   {
    "year": 2025,
+   "meet": "Section V Class A1 Championships",
+   "date": "2025-02-19",
+   "venue": "Nazareth",
+   "source": "Official Section V results file (supplied by the team)",
    "results": [
     {
      "gender": "girls",
@@ -3810,6 +4019,13 @@
     },
     {
      "gender": "boys",
+     "event": "55m",
+     "place": null,
+     "athlete": "Frank D'Angelo",
+     "mark": "FS"
+    },
+    {
+     "gender": "boys",
      "event": "300m",
      "place": 4,
      "athlete": "Frank D'Angelo",
@@ -3928,10 +4144,6 @@
      "mark": "53-00.75"
     }
    ],
-   "meet": "Section V Class A1 Championships",
-   "date": "2025-02-19",
-   "venue": "Nazareth",
-   "source": "https://ny.milesplit.com/meets/650313-section-5-sectional-champs-2025/results/1116148/raw",
    "team": {
     "girls": {
      "place": 2,
