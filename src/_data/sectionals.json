@@ -5088,7 +5088,7 @@
       "meet": "Section V Class A Championships",
       "date": "2008-02-13",
       "venue": "RIT Gordon Field House",
-      "source": "Official Section V results file (supplied by the team; boys events only)",
+      "source": "Official Section V results files (supplied by the team)",
       "results": [
         {
           "gender": "boys",
@@ -5222,6 +5222,167 @@
           "place": 6,
           "athlete": "Adam Gabrielli",
           "mark": "40-00.00"
+        },
+        {
+          "gender": "girls",
+          "event": "55m",
+          "place": 3,
+          "athlete": "Lauren Burke",
+          "mark": "7.68"
+        },
+        {
+          "gender": "girls",
+          "event": "300m",
+          "place": 1,
+          "athlete": "Angela Ryck",
+          "mark": "42.97"
+        },
+        {
+          "gender": "girls",
+          "event": "300m",
+          "place": 2,
+          "athlete": "Rosie Roessel",
+          "mark": "43.10"
+        },
+        {
+          "gender": "girls",
+          "event": "600m",
+          "place": 1,
+          "athlete": "Rosie Roessel",
+          "mark": "1:37.96"
+        },
+        {
+          "gender": "girls",
+          "event": "600m",
+          "place": 4,
+          "athlete": "Michelle Barnum",
+          "mark": "1:42.22"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 1,
+          "athlete": "Angela Ryck",
+          "mark": "3:02.92"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 4,
+          "athlete": "Jordyn Naylon",
+          "mark": "3:12.35"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 8,
+          "athlete": "Rachel Malone",
+          "mark": "3:21.03"
+        },
+        {
+          "gender": "girls",
+          "event": "1500m",
+          "place": 9,
+          "athlete": "Jordyn Naylon",
+          "mark": "5:23.99"
+        },
+        {
+          "gender": "girls",
+          "event": "3000m",
+          "place": 15,
+          "athlete": "Ashley Roche",
+          "mark": "11:45.09"
+        },
+        {
+          "gender": "girls",
+          "event": "RW",
+          "place": 7,
+          "athlete": "Anna Schroeder",
+          "mark": "8:36.83"
+        },
+        {
+          "gender": "girls",
+          "event": "55mH",
+          "place": 5,
+          "athlete": "Diana Weber",
+          "mark": "9.35"
+        },
+        {
+          "gender": "girls",
+          "event": "4x200",
+          "place": 4,
+          "athlete": "",
+          "mark": "1:52.82"
+        },
+        {
+          "gender": "girls",
+          "event": "4x400",
+          "place": 1,
+          "athlete": "",
+          "mark": "4:18.78"
+        },
+        {
+          "gender": "girls",
+          "event": "4x800",
+          "place": 2,
+          "athlete": "",
+          "mark": "10:11.43"
+        },
+        {
+          "gender": "girls",
+          "event": "HJ",
+          "place": 7,
+          "athlete": "Lauren Burke",
+          "mark": "4-08.00"
+        },
+        {
+          "gender": "girls",
+          "event": "PV",
+          "place": 8,
+          "athlete": "Emily Valle",
+          "mark": "8-00.00"
+        },
+        {
+          "gender": "girls",
+          "event": "PV",
+          "place": 11,
+          "athlete": "Sabrina Mahmud",
+          "mark": "7-00.00"
+        },
+        {
+          "gender": "girls",
+          "event": "LJ",
+          "place": 2,
+          "athlete": "Diana Weber",
+          "mark": "16-08.25"
+        },
+        {
+          "gender": "girls",
+          "event": "LJ",
+          "place": 16,
+          "athlete": "Katie Ferris",
+          "mark": "14-10.75"
+        },
+        {
+          "gender": "girls",
+          "event": "TJ",
+          "place": 5,
+          "athlete": "Diana Weber",
+          "mark": "33-11.00"
+        },
+        {
+          "gender": "girls",
+          "event": "TJ",
+          "place": 15,
+          "athlete": "Nyckiyah Mulkey",
+          "mark": "31-06.50"
+        },
+        {
+          "gender": "girls",
+          "event": "SP",
+          "place": 16,
+          "athlete": "Kaitlyn Gayvert",
+          "mark": "26-07.00"
         }
       ],
       "team": {
@@ -5230,6 +5391,12 @@
           "points": 53.0,
           "winner": "Edison Tech",
           "winner_points": 72.0
+        },
+        "girls": {
+          "place": 2,
+          "points": 87.0,
+          "winner": "Hilton",
+          "winner_points": 112.0
         }
       }
     },
