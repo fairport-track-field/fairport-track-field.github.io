@@ -38,7 +38,7 @@ permalink: /history/
           <td>{{ s.meet }}</td>
           {% for g in ["girls", "boys"] %}
           {% set t = s.byGender[g].team %}
-          <td class="history__place{% if t and t.place == 1 %} is-team-title{% endif %}">{% if t %}{% if t.place == 1 %}Champions, {% else %}{{ t.place | ordinal }}, {% endif %}{{ t.points | pts }} pts{% else %}<span class="muted">Not on file</span>{% endif %}</td>
+          <td class="history__place{% if t and t.place == 1 %} is-team-title{% endif %}">{% if t %}{% if t.place == 1 %}{% if t.shared_with %}Co-champions{% else %}Champions{% endif %}, {% else %}{{ t.place | ordinal }}, {% endif %}{{ t.points | pts }} pts{% else %}<span class="muted">Not on file</span>{% endif %}</td>
           {% endfor %}
           <td class="num">{{ s.byGender.girls.champions.length + s.byGender.boys.champions.length }}</td>
           <td class="num">{{ s.byGender.girls.scorers.length + s.byGender.boys.scorers.length }}</td>
@@ -48,7 +48,7 @@ permalink: /history/
     </table>
     </div>
     {% if S.teamTitles.length %}
-    <p class="team-titles">{% for t in S.teamTitles %}<strong>{{ t.year | seasonLabel }} {{ t.gender }}:</strong> {{ t.meet }} team champions ({{ t.points | pts }} points){% if not loop.last %}<br>{% endif %}{% endfor %}</p>
+    <p class="team-titles">{% for t in S.teamTitles %}<strong>{{ t.year | seasonLabel }} {{ t.gender }}:</strong> {{ t.meet }} team {% if t.shared_with %}co-champions with {{ t.shared_with }}{% else %}champions{% endif %} ({{ t.points | pts }} points){% if not loop.last %}<br>{% endif %}{% endfor %}</p>
     {% endif %}
     <p class="history__note">Team places are from the official team scores. "Not on file" means the team scores for that season weren't available online. Scorers are top-6 finishes (scored 10-8-6-4-2-1).</p>
   </section>
@@ -108,7 +108,7 @@ permalink: /history/
         {% for g in ["girls", "boys"] %}
         {% set G = s.byGender[g] %}
         <div class="season-detail__col">
-          <h3 class="toplist__title">{{ g | capitalize }}{% if G.team %}: {{ G.team.place | ordinal }} place, {{ G.team.points | pts }} points <span class="muted">(won by {{ G.team.winner }}, {{ G.team.winner_points | pts }})</span>{% endif %}</h3>
+          <h3 class="toplist__title">{{ g | capitalize }}{% if G.team %}: {{ G.team.place | ordinal }} place, {{ G.team.points | pts }} points <span class="muted">({% if G.team.place == 1 %}{% if G.team.shared_with %}team title shared with {{ G.team.shared_with }}{% else %}team champions{% endif %}{% else %}won by {{ G.team.winner }}, {{ G.team.winner_points | pts }}{% endif %})</span>{% endif %}</h3>
           {% if G.resultsMissing %}<p class="muted">Individual results for this season aren't on file yet.</p>{% else %}
           <table class="toplist__table season-results">
             <thead class="visually-hidden"><tr><th>Place</th><th>Event</th><th>Athlete</th><th>Mark</th></tr></thead>
