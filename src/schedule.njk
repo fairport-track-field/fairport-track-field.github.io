@@ -1,33 +1,121 @@
 ---
 layout: base.njk
 title: Schedule & results
+description: "Fairport Red Raiders indoor track and field meet schedule with dates, locations, times, order of events and links to Yen Timing results."
 permalink: /schedule/
 ---
 <div class="wrap">
   <h1 class="page-title">{{ schedule.season }} schedule</h1>
-  <p class="page-lede">All meets are timed by {{ site.results_provider }}. Full results are linked here once they're posted.</p>
+  <p class="page-lede">All meets are timed by {{ site.results_provider }}. Full results are linked here once they're posted. Open a meet to see its order of events.</p>
+  <p class="results-links">{% for l in site.results_links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}</p>
 
   <div class="table-scroll">
   <table class="schedule">
     <thead>
-      <tr><th scope="col">Date</th><th scope="col">Meet</th><th scope="col">Location</th><th scope="col">Time</th><th scope="col">Results</th></tr>
+      <tr><th scope="col">Date</th><th scope="col">Meet</th><th scope="col">Location</th><th scope="col">Time</th><th scope="col">Info &amp; results</th></tr>
     </thead>
     <tbody>
       {% for meet in schedule.meets %}
-      <tr data-date="{{ meet.date }}" data-end="{{ meet.end_date or meet.date }}"{% if meet.championship %} class="is-champ"{% endif %}>
+      {% set order = event_order.meets[meet.date] %}
+      <tr class="schedule__row{% if meet.championship %} is-champ{% endif %}" data-date="{{ meet.date }}" data-end="{{ meet.end_date or meet.date }}">
         <td class="schedule__date"><span class="schedule__dow">{{ meet.date | weekday }}</span> {{ meet.date | monthDay }}{% if meet.end_date %}–{{ meet.end_date | monthDay }}{% endif %}</td>
         <th scope="row" class="schedule__meet">{{ meet.name }}</th>
         <td>{{ meet.location }}</td>
         <td>{{ meet.time or "TBA" }}</td>
         <td class="schedule__results">
+          {% if meet.info_url %}<a href="{{ meet.info_url }}">Meet info</a>{% endif %}
           {% if meet.results_url %}<a href="{{ meet.results_url }}">Results</a>{% endif %}
           {% if meet.recap %}<a href="{{ meet.recap }}">Recap</a>{% endif %}
-          {% if not meet.results_url and not meet.recap %}<span class="muted" data-pending>Not yet posted</span>{% endif %}
         </td>
       </tr>
+      {% if order %}
+      <tr class="schedule__detail" data-date="{{ meet.date }}" data-end="{{ meet.end_date or meet.date }}">
+        <td colspan="5">
+          <details class="order">
+            <summary>{% if order.summary %}{{ order.summary }}{% elif order.details %}Meet details and order of events{% else %}Order of events{% endif %}<span class="order__week">{{ order.week }}</span></summary>
+            <div class="order__body">
+              {% if order.timeline %}
+              {% for day in order.timeline %}
+              <section class="order__col">
+                <h3 class="order__title">{{ day.day }}</h3>
+                <dl class="order__timeline">
+                  {% for item in day.items %}<dt>{{ item[0] }}</dt><dd>{{ item[1] }}</dd>{% endfor %}
+                </dl>
+              </section>
+              {% endfor %}
+              <section class="order__col">
+                <h3 class="order__title">Venue</h3>
+                <p>{{ order.venue }}</p>
+                <p class="order__links"><a href="/standards/#state">State qualifying standards</a></p>
+              </section>
+              {% else %}
+              <section class="order__col">
+                <h3 class="order__title">Running events</h3>
+                {% if order.running_note %}<p class="order__key order__key--top">{{ order.running_note }}</p>{% endif %}
+                <ol class="order__track">
+                  {% for e in order.track %}{% if e.break %}<li class="order__break">{{ e.break }}</li>{% else %}<li>{{ e }}</li>{% endif %}{% endfor %}
+                </ol>
+              </section>
+              <section class="order__col">
+                <h3 class="order__title">Field events</h3>
+                <ul class="order__field">
+                  {% for e in order.field %}<li>{{ e }}</li>{% endfor %}
+                </ul>
+                {% if order.field_key !== false %}<p class="order__key">B/G means boys first, then girls; G/B means girls first. B&amp;G means boys and girls at the same time on 2 pits.</p>{% endif %}
+                {% if order.heights %}
+                  {% set h = event_order.heights[order.heights] %}
+                  <h3 class="order__title">Starting heights</h3>
+                  <dl class="order__heights">
+                    <dt>Girls high jump</dt><dd>{{ h.girls_hj }}</dd>
+                    <dt>Boys high jump</dt><dd>{{ h.boys_hj }}</dd>
+                    <dt>Pole vault</dt><dd>{{ h.pv }}</dd>
+                  </dl>
+                {% endif %}
+              </section>
+              <section class="order__col">
+                <h3 class="order__title">Entries</h3>
+                <p>{{ order.limits }}</p>
+                <p><strong>Entry deadline:</strong> {{ order.deadline }}</p>
+                {% if order.details %}
+                <ul class="order__details">
+                  {% for d in order.details %}<li>{{ d }}</li>{% endfor %}
+                </ul>
+                {% endif %}
+                {% if order.tickets_url or order.event_info_url %}
+                <p class="order__links">
+                  {% if order.tickets_url %}<a href="{{ order.tickets_url }}">Buy tickets on GoFan</a>{% endif %}
+                  {% if order.event_info_url %}<a href="{{ order.event_info_url }}">Event information</a>{% endif %}
+                </p>
+                {% endif %}
+                {% if order.results_info_url or order.standards_link %}
+                <p class="order__links">
+                  {% if order.results_info_url %}<a href="{{ order.results_info_url }}">Section V results</a>{% endif %}
+                  {% if order.standards_link %}<a href="/standards/#state">State qualifying standards</a>{% endif %}
+                </p>
+                {% endif %}
+                {% if order.other_divisions %}<p class="order__fine">{{ order.other_divisions }}</p>{% endif %}
+                {% if not order.details %}<p class="order__fine">{{ event_order.rules | join(" ") }} From the <a href="{{ event_order.source_url }}">{{ event_order.source }}</a>.</p>{% endif %}
+              </section>
+              {% endif %}
+            </div>
+          </details>
+        </td>
+      </tr>
+      {% endif %}
       {% endfor %}
     </tbody>
   </table>
   </div>
   <p class="legend"><span class="legend__swatch" aria-hidden="true"></span> Championship meet</p>
+
+  {% if schedule.key_dates %}
+  <section class="key-dates" aria-labelledby="key-dates-title">
+    <h2 class="section-title" id="key-dates-title">Key dates</h2>
+    <ul class="key-dates__list">
+      {% for k in schedule.key_dates %}
+      <li data-end="{{ k.date }}"><span class="key-dates__date">{{ k.date | weekday }}, {{ k.date | monthDay }}</span> {{ k.what }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
 </div>

@@ -98,6 +98,10 @@ Add entries to `src/_data/championships.json`:
 
 Seasons are grouped and listed newest first.
 
+## Web address and search engines
+
+`src/_data/site.json` has a `url` setting (currently `https://fairport-track-field.github.io`). If the site's address ever changes (a new repository name or a custom domain), update `url` to match so the search-engine sitemap (`/sitemap.xml`) points to the right place.
+
 ## Working on it locally (optional)
 
 Needs Node 18+.

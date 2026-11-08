@@ -32,17 +32,22 @@
     }
   }
 
-  // Schedule: mark finished meets and the next one up.
-  var rows = document.querySelectorAll(".schedule tbody tr");
+  // Schedule: mark finished meets and the next one up; open the next meet's event order.
+  var rows = document.querySelectorAll(".schedule__row");
   var foundNext = false;
   rows.forEach(function (row) {
+    var detail = row.nextElementSibling && row.nextElementSibling.classList.contains("schedule__detail") ? row.nextElementSibling : null;
     if (row.dataset.end < today) {
       row.classList.add("is-past");
-    } else {
-      var pending = row.querySelector("[data-pending]");
-      if (pending) pending.textContent = "";
-      if (!foundNext) { row.classList.add("is-next"); foundNext = true; }
+      if (detail) detail.classList.add("is-past");
+    } else if (!foundNext) {
+      row.classList.add("is-next");
+      foundNext = true;
     }
+  });
+
+  document.querySelectorAll(".key-dates__list li").forEach(function (li) {
+    if (li.dataset.end < today) li.classList.add("is-past");
   });
 
   // Top 10: girls / boys filter.
