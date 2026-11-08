@@ -5732,6 +5732,177 @@
       }
     },
     {
+      "year": 2006,
+      "meet": "Section V Class A Championships",
+      "date": "2006-02-11",
+      "venue": "RIT",
+      "source": "Official Section V results file (supplied by the team; boys events only)",
+      "results": [
+        {
+          "gender": "boys",
+          "event": "55m",
+          "place": 2,
+          "athlete": "Spencer Carter",
+          "mark": "6.63"
+        },
+        {
+          "gender": "boys",
+          "event": "300m",
+          "place": 2,
+          "athlete": "Spencer Carter",
+          "mark": "36.22"
+        },
+        {
+          "gender": "boys",
+          "event": "300m",
+          "place": 8,
+          "athlete": "DJ Hyman",
+          "mark": "39.17"
+        },
+        {
+          "gender": "boys",
+          "event": "600m",
+          "place": 2,
+          "athlete": "Matt Deady",
+          "mark": "1:26.22"
+        },
+        {
+          "gender": "boys",
+          "event": "600m",
+          "place": 9,
+          "athlete": "Teddy Taggert",
+          "mark": "1:32.89"
+        },
+        {
+          "gender": "boys",
+          "event": "1000m",
+          "place": 4,
+          "athlete": "Dan Reilly",
+          "mark": "2:44.45"
+        },
+        {
+          "gender": "boys",
+          "event": "1600m",
+          "place": 7,
+          "athlete": "Joey Priola",
+          "mark": "5:08.87"
+        },
+        {
+          "gender": "boys",
+          "event": "3200m",
+          "place": 4,
+          "athlete": "Matt Deady",
+          "mark": "10:05.32"
+        },
+        {
+          "gender": "boys",
+          "event": "3200m",
+          "place": 7,
+          "athlete": "Kyle Dacey",
+          "mark": "10:36.72"
+        },
+        {
+          "gender": "boys",
+          "event": "55mH",
+          "place": 6,
+          "athlete": "Mike Easton",
+          "mark": "8.66"
+        },
+        {
+          "gender": "boys",
+          "event": "4x200",
+          "place": 7,
+          "athlete": "",
+          "mark": "1:42.75"
+        },
+        {
+          "gender": "boys",
+          "event": "4x400",
+          "place": 4,
+          "athlete": "",
+          "mark": "3:38.82"
+        },
+        {
+          "gender": "boys",
+          "event": "4x800",
+          "place": 1,
+          "athlete": "",
+          "mark": "8:28.85"
+        },
+        {
+          "gender": "boys",
+          "event": "HJ",
+          "place": 6,
+          "athlete": "Reed Nisson",
+          "mark": "5-08.00"
+        },
+        {
+          "gender": "boys",
+          "event": "HJ",
+          "place": 8,
+          "athlete": "Justin Matthews",
+          "mark": "5-06.00"
+        },
+        {
+          "gender": "boys",
+          "event": "HJ",
+          "place": 8,
+          "athlete": "Eric Beecher",
+          "mark": "5-06.00"
+        },
+        {
+          "gender": "boys",
+          "event": "PV",
+          "place": 2,
+          "athlete": "Kris Williams",
+          "mark": "14-00.00"
+        },
+        {
+          "gender": "boys",
+          "event": "LJ",
+          "place": 5,
+          "athlete": "Eric Beecher",
+          "mark": "20-10.50"
+        },
+        {
+          "gender": "boys",
+          "event": "LJ",
+          "place": 8,
+          "athlete": "Forrest Viola",
+          "mark": "20-02.00"
+        },
+        {
+          "gender": "boys",
+          "event": "TJ",
+          "place": 3,
+          "athlete": "Forrest Viola",
+          "mark": "43-08.50"
+        },
+        {
+          "gender": "boys",
+          "event": "TJ",
+          "place": 5,
+          "athlete": "Eric Beecher",
+          "mark": "40-11.00"
+        },
+        {
+          "gender": "boys",
+          "event": "SP",
+          "place": 12,
+          "athlete": "William Neely",
+          "mark": "34-00.00"
+        }
+      ],
+      "team": {
+        "boys": {
+          "place": 3,
+          "points": 66.0,
+          "winner": "Gates-Chili",
+          "winner_points": 91.0
+        }
+      }
+    },
+    {
       "year": 2004,
       "results": [
         {
