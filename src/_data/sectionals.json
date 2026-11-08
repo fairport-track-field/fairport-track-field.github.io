@@ -6590,6 +6590,163 @@
           "winner_points": 127.5
         }
       }
+    },
+    {
+      "year": 2003,
+      "meet": "Section V Class A Championships",
+      "date": "2003-02-15",
+      "venue": "University of Rochester",
+      "source": "Official Section V results file (supplied by the team; boys events only)",
+      "results": [
+        {
+          "gender": "boys",
+          "event": "3200m",
+          "place": 3,
+          "athlete": "Joey Priola",
+          "mark": "10:11.31"
+        },
+        {
+          "gender": "boys",
+          "event": "3200m",
+          "place": 4,
+          "athlete": "Connor Martin",
+          "mark": "10:16.05"
+        },
+        {
+          "gender": "boys",
+          "event": "45m",
+          "place": 3,
+          "athlete": "Pat Weider",
+          "mark": "5.75"
+        },
+        {
+          "gender": "boys",
+          "event": "1000m",
+          "place": 5,
+          "athlete": "Steve Overacker",
+          "mark": "2:46.17"
+        },
+        {
+          "gender": "boys",
+          "event": "600m",
+          "place": 8,
+          "athlete": "Chris Magee",
+          "mark": "1:33.71"
+        },
+        {
+          "gender": "boys",
+          "event": "1600m",
+          "place": 3,
+          "athlete": "Steve Overacker",
+          "mark": "4:45.28"
+        },
+        {
+          "gender": "boys",
+          "event": "1600m",
+          "place": 7,
+          "athlete": "Connor Martin",
+          "mark": "4:53.92"
+        },
+        {
+          "gender": "boys",
+          "event": "300m",
+          "place": 2,
+          "athlete": "Pat Weider",
+          "mark": "37.91"
+        },
+        {
+          "gender": "boys",
+          "event": "4x800",
+          "place": 5,
+          "athlete": "",
+          "mark": "8:58.55"
+        },
+        {
+          "gender": "boys",
+          "event": "4x400",
+          "place": 6,
+          "athlete": "",
+          "mark": "3:58.92"
+        },
+        {
+          "gender": "boys",
+          "event": "4x200",
+          "place": 4,
+          "athlete": "",
+          "mark": "1:41.16"
+        },
+        {
+          "gender": "boys",
+          "event": "HJ",
+          "place": 7,
+          "athlete": "Bryn Yoshida",
+          "mark": "5-08.00"
+        },
+        {
+          "gender": "boys",
+          "event": "HJ",
+          "place": 11,
+          "athlete": "Eric Millilo",
+          "mark": "5-04.00"
+        },
+        {
+          "gender": "boys",
+          "event": "SP",
+          "place": 2,
+          "athlete": "Matt Carpenter",
+          "mark": "46-04.50"
+        },
+        {
+          "gender": "boys",
+          "event": "SP",
+          "place": 3,
+          "athlete": "Tim Bothwell",
+          "mark": "45-08.00"
+        },
+        {
+          "gender": "boys",
+          "event": "PV",
+          "place": 1,
+          "athlete": "Andrew Park",
+          "mark": "14-03.00"
+        },
+        {
+          "gender": "boys",
+          "event": "PV",
+          "place": 3,
+          "athlete": "Mike Reynolds",
+          "mark": "13-06.00"
+        },
+        {
+          "gender": "boys",
+          "event": "LJ",
+          "place": 1,
+          "athlete": "Ryan Peterson",
+          "mark": "22-00.75"
+        },
+        {
+          "gender": "boys",
+          "event": "LJ",
+          "place": 11,
+          "athlete": "Bryn Yoshida",
+          "mark": "19-04.25"
+        },
+        {
+          "gender": "boys",
+          "event": "LJ",
+          "place": 13,
+          "athlete": "Andrew Park",
+          "mark": "18-11.00"
+        }
+      ],
+      "team": {
+        "boys": {
+          "place": 3,
+          "points": 79.0,
+          "winner": "Edison Tech",
+          "winner_points": 96.0
+        }
+      }
     }
   ]
 }
