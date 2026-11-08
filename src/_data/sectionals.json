@@ -5094,7 +5094,7 @@
           "gender": "boys",
           "event": "55m",
           "place": null,
-          "athlete": "Shane Tuner",
+          "athlete": "Shane Turner",
           "mark": "FS"
         },
         {
@@ -5397,6 +5397,337 @@
           "points": 87.0,
           "winner": "Hilton",
           "winner_points": 112.0
+        }
+      }
+    },
+    {
+      "year": 2007,
+      "meet": "Section V Class A Championships",
+      "date": "2007-02-10",
+      "venue": "Hobart & William Smith Colleges",
+      "source": "Official Section V results file (supplied by the team)",
+      "results": [
+        {
+          "gender": "girls",
+          "event": "300m",
+          "place": 7,
+          "athlete": "Jessica Bauer",
+          "mark": "44.90"
+        },
+        {
+          "gender": "girls",
+          "event": "300m",
+          "place": 10,
+          "athlete": "Kayla Johnson",
+          "mark": "45.76"
+        },
+        {
+          "gender": "girls",
+          "event": "300m",
+          "place": 13,
+          "athlete": "Corrine McIntosh",
+          "mark": "46.29"
+        },
+        {
+          "gender": "girls",
+          "event": "600m",
+          "place": 5,
+          "athlete": "Rosie Roessel",
+          "mark": "1:42.15"
+        },
+        {
+          "gender": "girls",
+          "event": "600m",
+          "place": 8,
+          "athlete": "Laura Finke",
+          "mark": "1:47.94"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 3,
+          "athlete": "Natalie Dickerson",
+          "mark": "3:19.81"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 6,
+          "athlete": "Anna Schroeder",
+          "mark": "3:21.00"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 8,
+          "athlete": "Ashley Roche",
+          "mark": "3:24.94"
+        },
+        {
+          "gender": "girls",
+          "event": "1000m",
+          "place": 12,
+          "athlete": "Katie Abbott",
+          "mark": "3:34.29"
+        },
+        {
+          "gender": "girls",
+          "event": "3000m",
+          "place": 8,
+          "athlete": "Julie Cass",
+          "mark": "11:40.64"
+        },
+        {
+          "gender": "girls",
+          "event": "3000m",
+          "place": 12,
+          "athlete": "Keri Martin",
+          "mark": "12:36.71"
+        },
+        {
+          "gender": "girls",
+          "event": "3000m",
+          "place": 14,
+          "athlete": "Julia Hahn",
+          "mark": "12:43.41"
+        },
+        {
+          "gender": "girls",
+          "event": "55mH",
+          "place": 8,
+          "athlete": "Sabrina Mahmud",
+          "mark": "9.68"
+        },
+        {
+          "gender": "girls",
+          "event": "4x200",
+          "place": 4,
+          "athlete": "",
+          "mark": "1:55.90"
+        },
+        {
+          "gender": "girls",
+          "event": "4x400",
+          "place": 1,
+          "athlete": "",
+          "mark": "4:19.56"
+        },
+        {
+          "gender": "girls",
+          "event": "4x800",
+          "place": 4,
+          "athlete": "",
+          "mark": "10:49.80"
+        },
+        {
+          "gender": "girls",
+          "event": "HJ",
+          "place": 8,
+          "athlete": "Emily Olson",
+          "mark": "4-06.00"
+        },
+        {
+          "gender": "girls",
+          "event": "PV",
+          "place": 9,
+          "athlete": "Emily Valle",
+          "mark": "7-00.00"
+        },
+        {
+          "gender": "girls",
+          "event": "LJ",
+          "place": 10,
+          "athlete": "Paige Vandermark",
+          "mark": "14-07.00"
+        },
+        {
+          "gender": "girls",
+          "event": "LJ",
+          "place": 13,
+          "athlete": "Katie Ferris",
+          "mark": "12-10.50"
+        },
+        {
+          "gender": "girls",
+          "event": "TJ",
+          "place": 5,
+          "athlete": "Paige Vandermark",
+          "mark": "32-03.50"
+        },
+        {
+          "gender": "girls",
+          "event": "TJ",
+          "place": 7,
+          "athlete": "Nyckiyah Mulkey",
+          "mark": "31-06.50"
+        },
+        {
+          "gender": "boys",
+          "event": "55m",
+          "place": 1,
+          "athlete": "Spencer Carter",
+          "mark": "6.53"
+        },
+        {
+          "gender": "boys",
+          "event": "55m",
+          "place": 8,
+          "athlete": "Shane Turner",
+          "mark": "6.87"
+        },
+        {
+          "gender": "boys",
+          "event": "55m",
+          "place": 14,
+          "athlete": "DJ Hyman",
+          "mark": "7.16"
+        },
+        {
+          "gender": "boys",
+          "event": "300m",
+          "place": 1,
+          "athlete": "Spencer Carter",
+          "mark": "35.69"
+        },
+        {
+          "gender": "boys",
+          "event": "300m",
+          "place": 6,
+          "athlete": "DJ Hyman",
+          "mark": "38.20"
+        },
+        {
+          "gender": "boys",
+          "event": "300m",
+          "place": 10,
+          "athlete": "Shane Turner",
+          "mark": "39.51"
+        },
+        {
+          "gender": "boys",
+          "event": "600m",
+          "place": 5,
+          "athlete": "Jon Metzger",
+          "mark": "1:29.67"
+        },
+        {
+          "gender": "boys",
+          "event": "600m",
+          "place": 6,
+          "athlete": "Teddy Taggert",
+          "mark": "1:30.03"
+        },
+        {
+          "gender": "boys",
+          "event": "1000m",
+          "place": 4,
+          "athlete": "Dan Reilly",
+          "mark": "2:43.10"
+        },
+        {
+          "gender": "boys",
+          "event": "1000m",
+          "place": 7,
+          "athlete": "Kyle Dacey",
+          "mark": "2:45.69"
+        },
+        {
+          "gender": "boys",
+          "event": "1600m",
+          "place": 4,
+          "athlete": "Andrew Rice",
+          "mark": "4:38.95"
+        },
+        {
+          "gender": "boys",
+          "event": "3200m",
+          "place": 6,
+          "athlete": "Jon Metzger",
+          "mark": "10:16.22"
+        },
+        {
+          "gender": "boys",
+          "event": "55mH",
+          "place": 7,
+          "athlete": "Jeff Shaffer",
+          "mark": "8.51"
+        },
+        {
+          "gender": "boys",
+          "event": "4x200",
+          "place": 2,
+          "athlete": "",
+          "mark": "1:35.81"
+        },
+        {
+          "gender": "boys",
+          "event": "4x400",
+          "place": 4,
+          "athlete": "",
+          "mark": "3:44.91"
+        },
+        {
+          "gender": "boys",
+          "event": "4x800",
+          "place": 2,
+          "athlete": "",
+          "mark": "8:32.26"
+        },
+        {
+          "gender": "boys",
+          "event": "HJ",
+          "place": 13,
+          "athlete": "Jeff Shaffer",
+          "mark": "5-04.00"
+        },
+        {
+          "gender": "boys",
+          "event": "PV",
+          "place": 1,
+          "athlete": "Kris Williams",
+          "mark": "13-00.00"
+        },
+        {
+          "gender": "boys",
+          "event": "PV",
+          "place": 9,
+          "athlete": "Jon Large",
+          "mark": "9-00.00"
+        },
+        {
+          "gender": "boys",
+          "event": "LJ",
+          "place": 4,
+          "athlete": "Forrest Viola",
+          "mark": "20-10.25"
+        },
+        {
+          "gender": "boys",
+          "event": "TJ",
+          "place": 3,
+          "athlete": "Forrest Viola",
+          "mark": "43-05.00"
+        },
+        {
+          "gender": "boys",
+          "event": "TJ",
+          "place": 10,
+          "athlete": "Alex Barrette",
+          "mark": "38-09.75"
+        }
+      ],
+      "team": {
+        "girls": {
+          "place": 7,
+          "points": 29.0,
+          "winner": "Hilton",
+          "winner_points": 133.0
+        },
+        "boys": {
+          "place": 3,
+          "points": 73.0,
+          "winner": "Gates Chili",
+          "winner_points": 95.0
         }
       }
     },
