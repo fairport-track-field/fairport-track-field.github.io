@@ -1,7 +1,11 @@
 [
   { "id": "55m",   "label": "55m",               "group": "Track",  "measure": "time",     "girls": "55m",   "boys": "55m" },
+  { "id": "60m", "label": "60m", "group": "Track", "measure": "time", "girls": "60m", "boys": "60m" },
+  { "id": "200m", "label": "200m", "group": "Track", "measure": "time", "girls": "200m", "boys": "200m" },
   { "id": "300m",  "label": "300m",              "group": "Track",  "measure": "time",     "girls": "300m",  "boys": "300m" },
+  { "id": "400m", "label": "400m", "group": "Track", "measure": "time", "girls": "400m", "boys": "400m" },
   { "id": "600m",  "label": "600m",              "group": "Track",  "measure": "time",     "girls": "600m",  "boys": "600m" },
+  { "id": "800m", "label": "800m", "group": "Track", "measure": "time", "girls": "800m", "boys": "800m" },
   { "id": "1000m", "label": "1000m",             "group": "Track",  "measure": "time",     "girls": "1000m", "boys": "1000m" },
   { "id": "mile",  "label": "1500m / 1600m",     "group": "Track",  "measure": "time",     "girls": "1500m", "boys": "1600m" },
   { "id": "2mile", "label": "3000m / 3200m",     "group": "Track",  "measure": "time",     "girls": "3000m", "boys": "3200m" },
