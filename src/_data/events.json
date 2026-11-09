@@ -17,5 +17,6 @@
   { "id": "4x400", "label": "4x400m Relay",      "group": "Relays", "measure": "time",     "girls": "4x400", "boys": "4x400" },
   { "id": "4x800", "label": "4x800m Relay",      "group": "Relays", "measure": "time",     "girls": "4x800", "boys": "4x800" },
   { "id": "SMR",   "label": "Sprint Medley",     "group": "Relays", "measure": "time",     "girls": "SMR",   "boys": "SMR" },
-  { "id": "DMR",   "label": "Distance Medley",   "group": "Relays", "measure": "time",     "girls": "DMR",   "boys": "DMR" }
+  { "id": "DMR",   "label": "Distance Medley",   "group": "Relays", "measure": "time",     "girls": "DMR",   "boys": "DMR" },
+  { "id": "4xMile", "label": "4xMile Relay",     "group": "Relays", "measure": "time",     "girls": "4xMile", "boys": "4xMile" }
 ]
