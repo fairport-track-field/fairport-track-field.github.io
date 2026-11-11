@@ -46,7 +46,13 @@ permalink: /schedule/
               <section class="order__col">
                 <h3 class="order__title">Venue</h3>
                 <p>{{ order.venue }}</p>
-                <p class="order__links"><a href="/standards/#state">State qualifying standards</a></p>
+                {% if order.details %}
+                <h3 class="order__title">Meet details</h3>
+                <ul class="order__details">
+                  {% for d in order.details %}<li>{{ d }}</li>{% endfor %}
+                </ul>
+                {% endif %}
+                {% if order.standards_link %}<p class="order__links"><a href="/standards/#state">State qualifying standards</a></p>{% endif %}
               </section>
               {% else %}
               <section class="order__col">
