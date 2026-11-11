@@ -9,6 +9,18 @@ permalink: /history/
   <h1 class="page-title">Championship history</h1>
   <p class="page-lede">How Fairport has done at the Section V indoor sectional championships, season by season.</p>
 
+  <section class="sv-alltime" aria-labelledby="sv-title">
+    <h2 class="section-title" id="sv-title">Section V all-time top 10</h2>
+    <dl class="stat-row">
+      <div><dt>Fairport marks in the Section V all-time top 10</dt><dd>{{ sv_alltime.total }}</dd></div>
+      <div><dt>Girls</dt><dd>{{ sv_alltime.girls }}</dd></div>
+      <div><dt>Boys</dt><dd>{{ sv_alltime.boys }}</dd></div>
+      <div><dt>#1 all-time</dt><dd>{{ sv_alltime.number_ones | length }}</dd></div>
+    </dl>
+    <p>Fairport athletes and relays hold {{ sv_alltime.total }} of the top-10 marks in Section V indoor history, across {{ sv_alltime.events }} events. The #1 marks: {% for x in sv_alltime.number_ones %}{{ x }}{% if not loop.last %}; {% endif %}{% endfor %}.</p>
+    <p class="muted">Source: <a href="{{ sv_alltime.source_url }}">{{ sv_alltime.source }}</a>, as of {{ sv_alltime.as_of | longDate }}.</p>
+  </section>
+
   <section class="sect-summary" aria-labelledby="sect-title">
     <h2 class="section-title" id="sect-title">Section V sectionals</h2>
 

@@ -286,7 +286,7 @@ tbody th { font-weight: 600; }
 code { font-size: .9em; background: var(--white); padding: .05rem .3rem; }
 
 /* Sectional history */
-.sect-summary { margin-bottom: 3rem; }
+.sect-summary, .sv-alltime { margin-bottom: 3rem; }
 .stat-row { display: flex; flex-wrap: wrap; gap: 1rem 3rem; margin: 0 0 1.5rem; }
 .stat-row dt { font-size: var(--step--1); color: var(--muted); font-weight: 600; }
 .stat-row dd { margin: 0; font-family: var(--display); font-weight: 900; font-size: 3rem; line-height: 1; color: var(--red); }
