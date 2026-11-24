@@ -63,20 +63,20 @@ Time in seconds over a flying 10 yards. Lower is faster.
 | 47 | Brayden Warner | 10 | 1.270 |
 | 48 | Eli Crockett | 9 | 1.274 |
 | 48 | Emmett Maidment-Foley | 9 | 1.274 |
-| 50 | Grayson Biehler | 9 | 1.278 |
-| 51 | Hayden Ruder | 9 | 1.280 |
-| 52 | Jackson LaPointe | 10 | 1.300 |
-| 53 | Lukas Dewaters | 10 | 1.302 |
-| 54 | Ethan Osinski | 11 | 1.306 |
-| 55 | Brandon Green | 11 | 1.345 |
-| 56 | Carter Mulley | 9 | 1.354 |
-| 57 | Jacob Parmele | 12 | 1.380 |
-| 57 | Ryan Sak | 10 | 1.380 |
-| 59 | Nate Pulcini | 10 | 1.381 |
-| 60 | Joey Marafioti | 12 | 1.440 |
-| 61 | Shubhang Vaisravanath | 10 | 1.480 |
-| 62 | Jack Romagnola | 9 | 1.499 |
-| 63 | Lucas Lynch | 9 | 1.759 |
+| 50 | Lucas Lynch | 9 | 1.275 |
+| 51 | Grayson Biehler | 9 | 1.278 |
+| 52 | Hayden Ruder | 9 | 1.280 |
+| 53 | Jackson LaPointe | 10 | 1.300 |
+| 54 | Lukas Dewaters | 10 | 1.302 |
+| 55 | Ethan Osinski | 11 | 1.306 |
+| 56 | Brandon Green | 11 | 1.345 |
+| 57 | Carter Mulley | 9 | 1.354 |
+| 58 | Jacob Parmele | 12 | 1.380 |
+| 58 | Ryan Sak | 10 | 1.380 |
+| 60 | Nate Pulcini | 10 | 1.381 |
+| 61 | Joey Marafioti | 12 | 1.440 |
+| 62 | Shubhang Vaisravanath | 10 | 1.480 |
+| 63 | Jack Romagnola | 9 | 1.499 |
 
 ## 200m
 
