@@ -16,7 +16,7 @@ Time in seconds over a flying 10 yards. Lower is faster.
 |---:|---|---:|---:|
 | 1 | Brenna Goss | 12 | 1.220 |
 | 2 | MaKayla George | 12 | 1.237 |
-| 3 | Ty'Nique Edmunds | 11 | 1.278 |
+| 3 | Ty'Nique Edmunds | 11 | 1.248 |
 | 4 | Fiona Qamili | 10 | 1.307 |
 | 5 | Genevieve LaPointe | 8 | 1.330 |
 | 6 | Zoey Cameron | 10 | 1.331 |
