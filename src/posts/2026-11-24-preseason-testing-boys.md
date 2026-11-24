@@ -6,7 +6,7 @@ author: Fairport Track & Field
 
 We rank it, we record it, and we publish it. Here are the top 20 boys in each of our first preseason tests. 63 athletes ran the fly, 53 ran the 200m and 56 threw.
 
-Every test is a chance to move up these lists, so we'll keep updating them through the season. Girls' results are coming next.
+Every test is a chance to move up these lists, so we'll keep updating them through the season. The girls' leaderboards are [here](/news/preseason-testing-girls/).
 
 ## 10-yard fly
 
