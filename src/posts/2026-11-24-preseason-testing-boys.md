@@ -4,7 +4,7 @@ date: 2026-11-24
 author: Fairport Track & Field
 ---
 
-We rank it, we record it, and we publish it. Here are the full boys' team rankings from our preseason testing: the 10-yard fly (63 athletes), 200m (53), throw (56), broad jump (62), vertical jump (50) and PACER test (49).
+Team results for our 2 days of testing. Here are the full boys' team rankings from our preseason testing: the 10-yard fly (63 athletes), 200m (53), throw (56), broad jump (62), vertical jump (50) and PACER test (49).
 
 Every test is a chance to move up these lists, so we'll keep updating them through the season. The girls' leaderboards are [here](/news/preseason-testing-girls/).
 
