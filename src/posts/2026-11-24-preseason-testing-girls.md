@@ -4,7 +4,7 @@ date: 2026-11-24
 author: Fairport Track & Field
 ---
 
-We rank it, we record it, and we publish it. Here are the full girls' team rankings from our first preseason tests: 65 athletes ran the fly, 63 ran the 200m and 67 threw.
+We rank it, we record it, and we publish it. Here are the full girls' team rankings from our preseason testing: the 10-yard fly (65 athletes), 200m (63), throw (67), vertical jump (64) and PACER test (61).
 
 Every test is a chance to move up these lists, so we'll keep updating them through the season. The boys' leaderboards are [here](/news/preseason-testing-boys/).
 
@@ -223,3 +223,142 @@ Longest is best.
 | 65 | Caitlin McElroy | 11 | 8' 10" |
 | 66 | Courtney Leary | 11 | 5' 7" |
 | 67 | Aine Finucane | 11 | 5' 2" |
+
+## Vertical jump
+
+Inches. Highest is best.
+
+| Rank | Athlete | Grade | Mark |
+|---:|---|---:|---:|
+| 1 | MaKayla George | 12 | 28.1" |
+| 1 | Gabby Rause | 10 | 28.1" |
+| 3 | Eliana Biehler | 11 | 25.5" |
+| 3 | Ty'Nique Edmunds | 11 | 25.5" |
+| 5 | Tessa Harrington | 10 | 25.3" |
+| 6 | Riley Vavrick | 9 | 24.4" |
+| 7 | Elise Weber | 10 | 23.2" |
+| 8 | Gianna Clark | 10 | 22.2" |
+| 9 | Lilliana Nelkin | 11 | 21.6" |
+| 10 | Eliana Purvis | 9 | 21.2" |
+| 11 | Avery Stevens | 9 | 20.4" |
+| 12 | Zoey Cameron | 10 | 20.2" |
+| 13 | Genevieve LaPointe | 8 | 19.9" |
+| 13 | Alaina Nunez | 11 | 19.9" |
+| 15 | Hannah McGurk | 9 | 19.5" |
+| 16 | Fiona Qamili | 10 | 19.0" |
+| 17 | Sophie Oyesiku | 11 | 18.8" |
+| 17 | Claudtina Scott | 9 | 18.8" |
+| 19 | Charlotte Monin | 10 | 18.0" |
+| 20 | Evelyn Schug | 10 | 17.9" |
+| 21 | Nora Allen | 9 | 17.8" |
+| 21 | Maryclaire Wirth | 11 | 17.8" |
+| 23 | Jordan Kardys | 9 | 17.7" |
+| 24 | Lyla Stutz | 11 | 17.6" |
+| 25 | Gabby Fiorito | 11 | 17.4" |
+| 26 | Savannah Shafer | 10 | 17.3" |
+| 27 | Delanie Demay | 9 | 17.2" |
+| 28 | Paula Andrade | 10 | 17.1" |
+| 29 | Lucia Scott | 10 | 16.9" |
+| 29 | Violet Steitz | 9 | 16.9" |
+| 31 | Lilah Dow | 10 | 16.7" |
+| 31 | Aine Finucane | 11 | 16.7" |
+| 33 | Brinn Castrechini | 11 | 16.6" |
+| 34 | Lilly Edison | 10 | 16.5" |
+| 34 | Sylvie Simrell | 9 | 16.5" |
+| 36 | Jenny Tran | 11 | 16.4" |
+| 36 | Erica Willard | 11 | 16.4" |
+| 38 | Abby Ambler | 8 | 16.2" |
+| 38 | Courtney Leary | 11 | 16.2" |
+| 38 | Katie Poligone | 11 | 16.2" |
+| 38 | Nadia Woyciesjes | 10 | 16.2" |
+| 42 | Hillary Davis | 8 | 16.1" |
+| 43 | Lilly Vandeburg | 11 | 16.0" |
+| 44 | Jami Brown | 9 | 15.9" |
+| 45 | Camille Billa | 12 | 15.8" |
+| 46 | Janiyah Brown | 9 | 15.7" |
+| 47 | Hannah Green | 8 | 15.6" |
+| 47 | Miriam Newburge | 9 | 15.6" |
+| 49 | Victoria Tronnes | 10 | 15.5" |
+| 50 | Brianna Rando | 10 | 15.2" |
+| 51 | Clare Anderson | 10 | 14.9" |
+| 52 | Shayla Inman | 12 | 14.7" |
+| 53 | Sarah Algahzi | 10 | 14.5" |
+| 54 | Maiya McEntee | 9 | 14.3" |
+| 54 | Madelyn Tobin | 9 | 14.3" |
+| 56 | McKenzie Norris | 8 | 14.0" |
+| 57 | Emina Celik | 10 | 13.8" |
+| 58 | Ary Stolt | 10 | 13.1" |
+| 59 | Olivia Reyes | 10 | 13.0" |
+| 60 | Ashlyn McNair-Scales | 10 | 12.8" |
+| 61 | Janie Steitz | 11 | 12.7" |
+| 62 | Luci Palma | 11 | 12.6" |
+| 63 | Claire Bissi | 11 | 12.5" |
+| 64 | Hannah Cooman | 10 | 12.2" |
+
+## PACER test
+
+Laps completed. Most is best.
+
+| Rank | Athlete | Grade | Mark |
+|---:|---|---:|---:|
+| 1 | Eliana Biehler | 11 | 115 |
+| 2 | Katie Poligone | 11 | 96 |
+| 3 | Delanie Demay | 9 | 91 |
+| 4 | Paula Andrade | 10 | 90 |
+| 5 | Erica Willard | 11 | 87 |
+| 6 | Charlotte Monin | 10 | 82 |
+| 7 | Genevieve LaPointe | 8 | 80 |
+| 8 | Olivia Reyes | 10 | 76 |
+| 8 | Riley Vavrick | 9 | 76 |
+| 10 | Maryclaire Wirth | 11 | 75 |
+| 11 | Gabby Rause | 10 | 71 |
+| 11 | Lucia Scott | 10 | 71 |
+| 13 | Gabby Fiorito | 11 | 70 |
+| 13 | Avery Stevens | 9 | 70 |
+| 15 | Aine Finucane | 11 | 67 |
+| 15 | Luci Palma | 11 | 67 |
+| 17 | Hillary Davis | 8 | 65 |
+| 18 | Hannah Green | 8 | 64 |
+| 19 | Courtney Leary | 11 | 63 |
+| 20 | Clare Anderson | 10 | 62 |
+| 21 | Gianna Clark | 10 | 58 |
+| 22 | Tessa Harrington | 10 | 57 |
+| 22 | Jordan Kardys | 9 | 57 |
+| 24 | Abby Ambler | 8 | 54 |
+| 25 | Savannah Shafer | 10 | 53 |
+| 25 | Ary Stolt | 10 | 53 |
+| 25 | Lyla Stutz | 11 | 53 |
+| 28 | Camille Billa | 12 | 52 |
+| 28 | Claire Bissi | 11 | 52 |
+| 30 | Ty'Nique Edmunds | 11 | 51 |
+| 30 | McKenzie Norris | 8 | 51 |
+| 32 | Nora Allen | 9 | 50 |
+| 32 | Sophie Oyesiku | 11 | 50 |
+| 32 | Violet Steitz | 9 | 50 |
+| 35 | Sylvie Simrell | 9 | 48 |
+| 36 | Miriam Newburge | 9 | 47 |
+| 37 | Brinn Castrechini | 11 | 45 |
+| 38 | Brianna Rando | 10 | 43 |
+| 38 | Madelyn Tobin | 9 | 43 |
+| 40 | Sarah Algahzi | 10 | 42 |
+| 41 | Lilah Dow | 10 | 41 |
+| 41 | MaKayla George | 12 | 41 |
+| 43 | Lilly Edison | 10 | 40 |
+| 43 | Hannah McGurk | 9 | 40 |
+| 43 | Elise Weber | 10 | 40 |
+| 46 | Alaina Nunez | 11 | 35 |
+| 47 | Claudtina Scott | 9 | 34 |
+| 48 | Emina Celik | 10 | 33 |
+| 49 | Lilliana Nelkin | 11 | 30 |
+| 50 | Zoey Cameron | 10 | 26 |
+| 50 | Eliana Purvis | 9 | 26 |
+| 52 | Janie Steitz | 11 | 22 |
+| 53 | Jenny Tran | 11 | 21 |
+| 54 | Jami Brown | 9 | 20 |
+| 55 | Maiya McEntee | 9 | 19 |
+| 56 | Janiyah Brown | 9 | 15 |
+| 56 | Shayla Inman | 12 | 15 |
+| 56 | Victoria Tronnes | 10 | 15 |
+| 56 | Nadia Woyciesjes | 10 | 15 |
+| 60 | Hannah Cooman | 10 | 13 |
+| 61 | Ashlyn McNair-Scales | 10 | 12 |
